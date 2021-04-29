@@ -1,0 +1,18 @@
+[2021-04-20 10:23:40.203] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/62/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:75:24469)
+	at new t (/snap/code/62/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:75:24418)
+	at new t (/snap/code/62/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:75:11163)
+	at asSymbolInformation (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:347:22)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/client.js:1002:62
+[2021-04-20 10:24:02.226] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/62/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:75:24469)
+	at new t (/snap/code/62/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:75:24418)
+	at new t (/snap/code/62/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:75:11163)
+	at asSymbolInformation (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:347:22)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/client.js:1002:62

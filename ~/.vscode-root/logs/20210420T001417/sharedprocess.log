@@ -1,0 +1,19 @@
+[2021-04-20 00:14:58.719] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-04-20 00:19:56.540] [sharedprocess] [info] Installing extension: felixfbecker.php-debug
+[2021-04-20 00:19:58.774] [sharedprocess] [info] Downloaded extension: felixfbecker.php-debug undefined
+[2021-04-20 00:19:59.641] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.32f9c4b8-8ca8-41c8-9251-e6baf0cc1b0b: felixfbecker.php-debug
+[2021-04-20 00:19:59.648] [sharedprocess] [info] Renamed to /root/.vscode/extensions/felixfbecker.php-debug-1.14.12
+[2021-04-20 00:19:59.651] [sharedprocess] [info] Installation completed. felixfbecker.php-debug
+[2021-04-20 00:19:59.657] [sharedprocess] [info] Extensions installed successfully: felixfbecker.php-debug
+[2021-04-20 10:22:32.736] [sharedprocess] [info] Installing extension: bmewburn.vscode-intelephense-client
+[2021-04-20 10:22:36.232] [sharedprocess] [info] Downloaded extension: bmewburn.vscode-intelephense-client undefined
+[2021-04-20 10:22:36.803] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.9665736e-bd44-4448-8bd5-955f4598bc67: bmewburn.vscode-intelephense-client
+[2021-04-20 10:22:36.811] [sharedprocess] [info] Renamed to /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.6.3
+[2021-04-20 10:22:36.812] [sharedprocess] [info] Installation completed. bmewburn.vscode-intelephense-client
+[2021-04-20 10:22:36.816] [sharedprocess] [info] Extensions installed successfully: bmewburn.vscode-intelephense-client
+[2021-04-20 10:22:38.104] [sharedprocess] [info] Installing extension: felixfbecker.php-intellisense
+[2021-04-20 10:22:41.325] [sharedprocess] [info] Downloaded extension: felixfbecker.php-intellisense undefined
+[2021-04-20 10:22:42.300] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.fccbdb24-c9cf-425d-b524-997faf45bbc7: felixfbecker.php-intellisense
+[2021-04-20 10:22:42.305] [sharedprocess] [info] Renamed to /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14
+[2021-04-20 10:22:42.307] [sharedprocess] [info] Installation completed. felixfbecker.php-intellisense
+[2021-04-20 10:22:42.309] [sharedprocess] [info] Extensions installed successfully: felixfbecker.php-intellisense

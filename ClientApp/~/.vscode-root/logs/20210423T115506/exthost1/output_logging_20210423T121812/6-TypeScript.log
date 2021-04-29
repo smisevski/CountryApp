@@ -1,0 +1,2962 @@
+[Info  - 10:18:12.139] Starting TS Server 
+[Info  - 10:18:12.139] Using tsserver from: /snap/code/62/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js
+[Info  - 10:18:12.141] <syntax> Forking...
+[Info  - 10:18:12.154] <syntax> Starting...
+[Info  - 10:18:12.155] <semantic> Forking...
+[Info  - 10:18:12.162] <semantic> Starting...
+[Error  - 10:18:12.761] TSServer exited with code: 1
+[Info  - 10:18:12.761] Starting TS Server 
+[Info  - 10:18:12.761] Using tsserver from: /snap/code/62/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js
+[Info  - 10:18:12.762] <syntax> Forking...
+[Info  - 10:18:12.767] <syntax> Starting...
+[Info  - 10:18:12.770] <semantic> Forking...
+[Info  - 10:18:12.776] <semantic> Starting...
+[Error  - 10:18:13.57] TSServer exited with code: 1
+[Info  - 10:18:13.57] Starting TS Server 
+[Info  - 10:18:13.57] Using tsserver from: /snap/code/62/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js
+[Info  - 10:18:13.58] <syntax> Forking...
+[Info  - 10:18:13.64] <syntax> Starting...
+[Info  - 10:18:13.65] <semantic> Forking...
+[Info  - 10:18:13.72] <semantic> Starting...
+[Error  - 10:18:13.402] TSServer exited with code: 1
+[Info  - 10:18:13.402] Starting TS Server 
+[Info  - 10:18:13.402] Using tsserver from: /snap/code/62/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js
+[Info  - 10:18:13.403] <syntax> Forking...
+[Info  - 10:18:13.408] <syntax> Starting...
+[Info  - 10:18:13.409] <semantic> Forking...
+[Info  - 10:18:13.416] <semantic> Starting...
+[Error  - 10:18:13.754] TSServer exited with code: 1
+[Info  - 10:18:13.754] Starting TS Server 
+[Info  - 10:18:13.754] Using tsserver from: /snap/code/62/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js
+[Info  - 10:18:13.755] <syntax> Forking...
+[Info  - 10:18:13.763] <syntax> Starting...
+[Info  - 10:18:13.764] <semantic> Forking...
+[Info  - 10:18:13.772] <semantic> Starting...
+[Error  - 10:18:14.65] TSServer exited with code: 1
+[Info  - 10:18:14.65] Starting TS Server 
+[Info  - 10:18:14.65] Using tsserver from: /snap/code/62/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js
+[Info  - 10:18:14.66] <syntax> Forking...
+[Info  - 10:18:14.72] <syntax> Starting...
+[Info  - 10:18:14.73] <semantic> Forking...
+[Info  - 10:18:14.80] <semantic> Starting...
+[Error  - 10:18:14.390] TSServer exited with code: 1
+[Info  - 10:18:15.689] Starting TS Server 
+[Info  - 10:18:15.689] Not starting server. Too many crashes.
+[Info  - 10:18:16.882] Starting TS Server 
+[Info  - 10:18:16.882] Not starting server. Too many crashes.
+[Info  - 10:18:16.981] Starting TS Server 
+[Info  - 10:18:16.981] Not starting server. Too many crashes.
+[Info  - 10:18:17.110] Starting TS Server 
+[Info  - 10:18:17.110] Not starting server. Too many crashes.
+[Info  - 10:18:20.729] Starting TS Server 
+[Info  - 10:18:20.729] Not starting server. Too many crashes.
+[Info  - 10:18:20.825] Starting TS Server 
+[Info  - 10:18:20.825] Not starting server. Too many crashes.
+[Info  - 10:18:20.950] Starting TS Server 
+[Info  - 10:18:20.950] Not starting server. Too many crashes.
+[Info  - 10:22:39.12] Starting TS Server 
+[Info  - 10:22:39.12] Not starting server. Too many crashes.
+[Info  - 10:22:39.16] Starting TS Server 
+[Info  - 10:22:39.16] Not starting server. Too many crashes.
+[Info  - 10:22:39.98] Starting TS Server 
+[Info  - 10:22:39.98] Not starting server. Too many crashes.
+[Info  - 10:22:39.197] Starting TS Server 
+[Info  - 10:22:39.197] Not starting server. Too many crashes.
+[Info  - 10:22:39.316] Starting TS Server 
+[Info  - 10:22:39.316] Not starting server. Too many crashes.
+[Info  - 10:22:48.330] Starting TS Server 
+[Info  - 10:22:48.330] Not starting server. Too many crashes.
+[Info  - 10:22:48.389] Starting TS Server 
+[Info  - 10:22:48.389] Not starting server. Too many crashes.
+[Info  - 10:22:48.481] Starting TS Server 
+[Info  - 10:22:48.481] Not starting server. Too many crashes.
+[Info  - 10:22:48.630] Starting TS Server 
+[Info  - 10:22:48.630] Not starting server. Too many crashes.
+[Info  - 10:22:48.634] Starting TS Server 
+[Info  - 10:22:48.634] Not starting server. Too many crashes.
+[Info  - 10:22:49.246] Starting TS Server 
+[Info  - 10:22:49.246] Not starting server. Too many crashes.
+[Info  - 10:23:05.525] Starting TS Server 
+[Info  - 10:23:05.525] Not starting server. Too many crashes.
+[Info  - 10:23:05.527] Starting TS Server 
+[Info  - 10:23:05.527] Not starting server. Too many crashes.
+[Info  - 10:23:05.621] Starting TS Server 
+[Info  - 10:23:05.621] Not starting server. Too many crashes.
+[Info  - 10:23:05.720] Starting TS Server 
+[Info  - 10:23:05.720] Not starting server. Too many crashes.
+[Info  - 10:23:05.826] Starting TS Server 
+[Info  - 10:23:05.827] Not starting server. Too many crashes.
+[Info  - 10:23:23.713] Starting TS Server 
+[Info  - 10:23:23.713] Not starting server. Too many crashes.
+[Info  - 10:23:23.803] Starting TS Server 
+[Info  - 10:23:23.803] Not starting server. Too many crashes.
+[Info  - 10:23:23.900] Starting TS Server 
+[Info  - 10:23:23.900] Not starting server. Too many crashes.
+[Info  - 10:23:24.16] Starting TS Server 
+[Info  - 10:23:24.16] Not starting server. Too many crashes.
+[Info  - 10:23:24.50] Starting TS Server 
+[Info  - 10:23:24.50] Not starting server. Too many crashes.
+[Info  - 10:23:24.171] Starting TS Server 
+[Info  - 10:23:24.171] Not starting server. Too many crashes.
+[Info  - 10:23:24.182] Starting TS Server 
+[Info  - 10:23:24.182] Not starting server. Too many crashes.
+[Info  - 10:23:24.260] Starting TS Server 
+[Info  - 10:23:24.260] Not starting server. Too many crashes.
+[Info  - 10:23:24.359] Starting TS Server 
+[Info  - 10:23:24.359] Not starting server. Too many crashes.
+[Info  - 10:23:24.378] Starting TS Server 
+[Info  - 10:23:24.378] Not starting server. Too many crashes.
+[Info  - 10:23:24.469] Starting TS Server 
+[Info  - 10:23:24.469] Not starting server. Too many crashes.
+[Info  - 10:23:24.569] Starting TS Server 
+[Info  - 10:23:24.569] Not starting server. Too many crashes.
+[Info  - 10:23:24.634] Starting TS Server 
+[Info  - 10:23:24.634] Not starting server. Too many crashes.
+[Info  - 10:23:24.726] Starting TS Server 
+[Info  - 10:23:24.726] Not starting server. Too many crashes.
+[Info  - 10:23:24.752] Starting TS Server 
+[Info  - 10:23:24.752] Not starting server. Too many crashes.
+[Info  - 10:23:24.835] Starting TS Server 
+[Info  - 10:23:24.835] Not starting server. Too many crashes.
+[Info  - 10:23:24.920] Starting TS Server 
+[Info  - 10:23:24.920] Not starting server. Too many crashes.
+[Info  - 10:23:25.34] Starting TS Server 
+[Info  - 10:23:25.34] Not starting server. Too many crashes.
+[Info  - 10:23:25.118] Starting TS Server 
+[Info  - 10:23:25.118] Not starting server. Too many crashes.
+[Info  - 10:23:25.139] Starting TS Server 
+[Info  - 10:23:25.139] Not starting server. Too many crashes.
+[Info  - 10:23:25.225] Starting TS Server 
+[Info  - 10:23:25.225] Not starting server. Too many crashes.
+[Info  - 10:23:25.324] Starting TS Server 
+[Info  - 10:23:25.325] Not starting server. Too many crashes.
+[Info  - 10:23:25.475] Starting TS Server 
+[Info  - 10:23:25.475] Not starting server. Too many crashes.
+[Info  - 10:23:32.48] Starting TS Server 
+[Info  - 10:23:32.48] Not starting server. Too many crashes.
+[Info  - 10:23:32.58] Starting TS Server 
+[Info  - 10:23:32.58] Not starting server. Too many crashes.
+[Info  - 10:23:32.132] Starting TS Server 
+[Info  - 10:23:32.132] Not starting server. Too many crashes.
+[Info  - 10:23:32.236] Starting TS Server 
+[Info  - 10:23:32.236] Not starting server. Too many crashes.
+[Info  - 10:23:32.239] Starting TS Server 
+[Info  - 10:23:32.239] Not starting server. Too many crashes.
+[Info  - 10:23:32.320] Starting TS Server 
+[Info  - 10:23:32.320] Not starting server. Too many crashes.
+[Info  - 10:23:32.343] Starting TS Server 
+[Info  - 10:23:32.344] Not starting server. Too many crashes.
+[Info  - 10:23:32.424] Starting TS Server 
+[Info  - 10:23:32.424] Not starting server. Too many crashes.
+[Info  - 10:23:32.524] Starting TS Server 
+[Info  - 10:23:32.524] Not starting server. Too many crashes.
+[Info  - 10:23:32.578] Starting TS Server 
+[Info  - 10:23:32.578] Not starting server. Too many crashes.
+[Info  - 10:23:32.665] Starting TS Server 
+[Info  - 10:23:32.665] Not starting server. Too many crashes.
+[Info  - 10:23:32.756] Starting TS Server 
+[Info  - 10:23:32.756] Not starting server. Too many crashes.
+[Info  - 10:23:32.841] Starting TS Server 
+[Info  - 10:23:32.841] Not starting server. Too many crashes.
+[Info  - 10:23:32.941] Starting TS Server 
+[Info  - 10:23:32.941] Not starting server. Too many crashes.
+[Info  - 10:23:33.91] Starting TS Server 
+[Info  - 10:23:33.91] Not starting server. Too many crashes.
+[Info  - 10:23:33.255] Starting TS Server 
+[Info  - 10:23:33.255] Not starting server. Too many crashes.
+[Info  - 10:23:33.343] Starting TS Server 
+[Info  - 10:23:33.343] Not starting server. Too many crashes.
+[Info  - 10:23:33.440] Starting TS Server 
+[Info  - 10:23:33.440] Not starting server. Too many crashes.
+[Info  - 10:23:33.525] Starting TS Server 
+[Info  - 10:23:33.525] Not starting server. Too many crashes.
+[Info  - 10:23:33.562] Starting TS Server 
+[Info  - 10:23:33.562] Not starting server. Too many crashes.
+[Info  - 10:23:33.565] Starting TS Server 
+[Info  - 10:23:33.565] Not starting server. Too many crashes.
+[Info  - 10:23:33.648] Starting TS Server 
+[Info  - 10:23:33.648] Not starting server. Too many crashes.
+[Info  - 10:23:33.752] Starting TS Server 
+[Info  - 10:23:33.752] Not starting server. Too many crashes.
+[Info  - 10:23:33.841] Starting TS Server 
+[Info  - 10:23:33.841] Not starting server. Too many crashes.
+[Info  - 10:23:33.923] Starting TS Server 
+[Info  - 10:23:33.923] Not starting server. Too many crashes.
+[Info  - 10:23:34.22] Starting TS Server 
+[Info  - 10:23:34.23] Not starting server. Too many crashes.
+[Info  - 10:23:34.104] Starting TS Server 
+[Info  - 10:23:34.104] Not starting server. Too many crashes.
+[Info  - 10:23:34.218] Starting TS Server 
+[Info  - 10:23:34.218] Not starting server. Too many crashes.
+[Info  - 10:23:34.305] Starting TS Server 
+[Info  - 10:23:34.305] Not starting server. Too many crashes.
+[Info  - 10:23:34.405] Starting TS Server 
+[Info  - 10:23:34.405] Not starting server. Too many crashes.
+[Info  - 10:23:34.419] Starting TS Server 
+[Info  - 10:23:34.419] Not starting server. Too many crashes.
+[Info  - 10:23:34.421] Starting TS Server 
+[Info  - 10:23:34.421] Not starting server. Too many crashes.
+[Info  - 10:23:34.516] Starting TS Server 
+[Info  - 10:23:34.516] Not starting server. Too many crashes.
+[Info  - 10:23:34.616] Starting TS Server 
+[Info  - 10:23:34.616] Not starting server. Too many crashes.
+[Info  - 10:23:34.766] Starting TS Server 
+[Info  - 10:23:34.767] Not starting server. Too many crashes.
+[Info  - 10:23:35.506] Starting TS Server 
+[Info  - 10:23:35.506] Not starting server. Too many crashes.
+[Info  - 10:23:35.593] Starting TS Server 
+[Info  - 10:23:35.593] Not starting server. Too many crashes.
+[Info  - 10:23:35.693] Starting TS Server 
+[Info  - 10:23:35.693] Not starting server. Too many crashes.
+[Info  - 10:23:35.843] Starting TS Server 
+[Info  - 10:23:35.843] Not starting server. Too many crashes.
+[Info  - 10:23:36.228] Starting TS Server 
+[Info  - 10:23:36.228] Not starting server. Too many crashes.
+[Info  - 10:23:36.229] Starting TS Server 
+[Info  - 10:23:36.229] Not starting server. Too many crashes.
+[Info  - 10:23:36.316] Starting TS Server 
+[Info  - 10:23:36.316] Not starting server. Too many crashes.
+[Info  - 10:23:36.329] Starting TS Server 
+[Info  - 10:23:36.329] Not starting server. Too many crashes.
+[Info  - 10:23:36.416] Starting TS Server 
+[Info  - 10:23:36.416] Not starting server. Too many crashes.
+[Info  - 10:23:36.567] Starting TS Server 
+[Info  - 10:23:36.567] Not starting server. Too many crashes.
+[Info  - 10:23:36.613] Starting TS Server 
+[Info  - 10:23:36.613] Not starting server. Too many crashes.
+[Info  - 10:23:36.615] Starting TS Server 
+[Info  - 10:23:36.615] Not starting server. Too many crashes.
+[Info  - 10:23:36.700] Starting TS Server 
+[Info  - 10:23:36.700] Not starting server. Too many crashes.
+[Info  - 10:23:36.756] Starting TS Server 
+[Info  - 10:23:36.756] Not starting server. Too many crashes.
+[Info  - 10:23:36.758] Starting TS Server 
+[Info  - 10:23:36.758] Not starting server. Too many crashes.
+[Info  - 10:23:36.845] Starting TS Server 
+[Info  - 10:23:36.845] Not starting server. Too many crashes.
+[Info  - 10:23:36.942] Starting TS Server 
+[Info  - 10:23:36.942] Not starting server. Too many crashes.
+[Info  - 10:23:37.93] Starting TS Server 
+[Info  - 10:23:37.93] Not starting server. Too many crashes.
+[Info  - 10:23:37.338] Starting TS Server 
+[Info  - 10:23:37.338] Not starting server. Too many crashes.
+[Info  - 10:23:37.341] Starting TS Server 
+[Info  - 10:23:37.341] Not starting server. Too many crashes.
+[Info  - 10:23:37.424] Starting TS Server 
+[Info  - 10:23:37.424] Not starting server. Too many crashes.
+[Info  - 10:23:37.481] Starting TS Server 
+[Info  - 10:23:37.481] Not starting server. Too many crashes.
+[Info  - 10:23:37.483] Starting TS Server 
+[Info  - 10:23:37.483] Not starting server. Too many crashes.
+[Info  - 10:23:37.567] Starting TS Server 
+[Info  - 10:23:37.567] Not starting server. Too many crashes.
+[Info  - 10:23:37.666] Starting TS Server 
+[Info  - 10:23:37.666] Not starting server. Too many crashes.
+[Info  - 10:23:37.705] Starting TS Server 
+[Info  - 10:23:37.705] Not starting server. Too many crashes.
+[Info  - 10:23:37.712] Starting TS Server 
+[Info  - 10:23:37.712] Not starting server. Too many crashes.
+[Info  - 10:23:37.794] Starting TS Server 
+[Info  - 10:23:37.794] Not starting server. Too many crashes.
+[Info  - 10:23:37.894] Starting TS Server 
+[Info  - 10:23:37.894] Not starting server. Too many crashes.
+[Info  - 10:23:37.936] Starting TS Server 
+[Info  - 10:23:37.936] Not starting server. Too many crashes.
+[Info  - 10:23:37.939] Starting TS Server 
+[Info  - 10:23:37.939] Not starting server. Too many crashes.
+[Info  - 10:23:38.30] Starting TS Server 
+[Info  - 10:23:38.30] Not starting server. Too many crashes.
+[Info  - 10:23:38.36] Starting TS Server 
+[Info  - 10:23:38.36] Not starting server. Too many crashes.
+[Info  - 10:23:38.120] Starting TS Server 
+[Info  - 10:23:38.120] Not starting server. Too many crashes.
+[Info  - 10:23:38.220] Starting TS Server 
+[Info  - 10:23:38.220] Not starting server. Too many crashes.
+[Info  - 10:23:38.371] Starting TS Server 
+[Info  - 10:23:38.371] Not starting server. Too many crashes.
+[Info  - 10:23:44.78] Starting TS Server 
+[Info  - 10:23:44.78] Not starting server. Too many crashes.
+[Info  - 10:23:44.79] Starting TS Server 
+[Info  - 10:23:44.79] Not starting server. Too many crashes.
+[Info  - 10:23:44.173] Starting TS Server 
+[Info  - 10:23:44.173] Not starting server. Too many crashes.
+[Info  - 10:23:44.179] Starting TS Server 
+[Info  - 10:23:44.179] Not starting server. Too many crashes.
+[Info  - 10:23:44.273] Starting TS Server 
+[Info  - 10:23:44.273] Not starting server. Too many crashes.
+[Info  - 10:23:44.343] Starting TS Server 
+[Info  - 10:23:44.343] Not starting server. Too many crashes.
+[Info  - 10:23:44.356] Starting TS Server 
+[Info  - 10:23:44.356] Not starting server. Too many crashes.
+[Info  - 10:23:44.438] Starting TS Server 
+[Info  - 10:23:44.438] Not starting server. Too many crashes.
+[Info  - 10:23:44.511] Starting TS Server 
+[Info  - 10:23:44.512] Not starting server. Too many crashes.
+[Info  - 10:23:44.515] Starting TS Server 
+[Info  - 10:23:44.515] Not starting server. Too many crashes.
+[Info  - 10:23:44.597] Starting TS Server 
+[Info  - 10:23:44.597] Not starting server. Too many crashes.
+[Info  - 10:23:44.629] Starting TS Server 
+[Info  - 10:23:44.629] Not starting server. Too many crashes.
+[Info  - 10:23:44.711] Starting TS Server 
+[Info  - 10:23:44.711] Not starting server. Too many crashes.
+[Info  - 10:23:44.788] Starting TS Server 
+[Info  - 10:23:44.788] Not starting server. Too many crashes.
+[Info  - 10:23:44.870] Starting TS Server 
+[Info  - 10:23:44.870] Not starting server. Too many crashes.
+[Info  - 10:23:44.898] Starting TS Server 
+[Info  - 10:23:44.898] Not starting server. Too many crashes.
+[Info  - 10:23:44.982] Starting TS Server 
+[Info  - 10:23:44.982] Not starting server. Too many crashes.
+[Info  - 10:23:45.82] Starting TS Server 
+[Info  - 10:23:45.82] Not starting server. Too many crashes.
+[Info  - 10:23:45.232] Starting TS Server 
+[Info  - 10:23:45.232] Not starting server. Too many crashes.
+[Info  - 10:23:45.362] Starting TS Server 
+[Info  - 10:23:45.362] Not starting server. Too many crashes.
+[Info  - 10:23:45.448] Starting TS Server 
+[Info  - 10:23:45.448] Not starting server. Too many crashes.
+[Info  - 10:23:45.547] Starting TS Server 
+[Info  - 10:23:45.547] Not starting server. Too many crashes.
+[Info  - 10:23:45.698] Starting TS Server 
+[Info  - 10:23:45.698] Not starting server. Too many crashes.
+[Info  - 10:23:46.341] Starting TS Server 
+[Info  - 10:23:46.341] Not starting server. Too many crashes.
+[Info  - 10:23:47.413] Starting TS Server 
+[Info  - 10:23:47.413] Not starting server. Too many crashes.
+[Info  - 10:23:47.497] Starting TS Server 
+[Info  - 10:23:47.497] Not starting server. Too many crashes.
+[Info  - 10:23:47.597] Starting TS Server 
+[Info  - 10:23:47.597] Not starting server. Too many crashes.
+[Info  - 10:23:47.747] Starting TS Server 
+[Info  - 10:23:47.747] Not starting server. Too many crashes.
+[Info  - 10:23:47.949] Starting TS Server 
+[Info  - 10:23:47.949] Not starting server. Too many crashes.
+[Info  - 10:23:49.939] Starting TS Server 
+[Info  - 10:23:49.939] Not starting server. Too many crashes.
+[Info  - 10:23:50.339] Starting TS Server 
+[Info  - 10:23:50.339] Not starting server. Too many crashes.
+[Info  - 10:23:50.539] Starting TS Server 
+[Info  - 10:23:50.539] Not starting server. Too many crashes.
+[Info  - 10:23:50.657] Starting TS Server 
+[Info  - 10:23:50.657] Not starting server. Too many crashes.
+[Info  - 10:25:24.473] Starting TS Server 
+[Info  - 10:25:24.473] Not starting server. Too many crashes.
+[Info  - 10:25:24.572] Starting TS Server 
+[Info  - 10:25:24.572] Not starting server. Too many crashes.
+[Info  - 10:25:24.692] Starting TS Server 
+[Info  - 10:25:24.692] Not starting server. Too many crashes.
+[Info  - 10:26:35.537] Starting TS Server 
+[Info  - 10:26:35.537] Not starting server. Too many crashes.
+[Info  - 10:26:35.914] Starting TS Server 
+[Info  - 10:26:35.914] Not starting server. Too many crashes.
+[Info  - 10:26:36.445] Starting TS Server 
+[Info  - 10:26:36.445] Not starting server. Too many crashes.
+[Info  - 10:26:36.783] Starting TS Server 
+[Info  - 10:26:36.783] Not starting server. Too many crashes.
+[Info  - 10:26:37.68] Starting TS Server 
+[Info  - 10:26:37.68] Not starting server. Too many crashes.
+[Info  - 10:26:37.168] Starting TS Server 
+[Info  - 10:26:37.168] Not starting server. Too many crashes.
+[Info  - 10:26:37.377] Starting TS Server 
+[Info  - 10:26:37.377] Not starting server. Too many crashes.
+[Info  - 10:26:37.923] Starting TS Server 
+[Info  - 10:26:37.923] Not starting server. Too many crashes.
+[Info  - 10:26:38.267] Starting TS Server 
+[Info  - 10:26:38.267] Not starting server. Too many crashes.
+[Info  - 10:26:38.274] Starting TS Server 
+[Info  - 10:26:38.274] Not starting server. Too many crashes.
+[Info  - 10:26:38.348] Starting TS Server 
+[Info  - 10:26:38.349] Not starting server. Too many crashes.
+[Info  - 10:26:38.425] Starting TS Server 
+[Info  - 10:26:38.425] Not starting server. Too many crashes.
+[Info  - 10:26:38.508] Starting TS Server 
+[Info  - 10:26:38.508] Not starting server. Too many crashes.
+[Info  - 10:26:38.570] Starting TS Server 
+[Info  - 10:26:38.570] Not starting server. Too many crashes.
+[Info  - 10:26:38.609] Starting TS Server 
+[Info  - 10:26:38.609] Not starting server. Too many crashes.
+[Info  - 10:26:38.759] Starting TS Server 
+[Info  - 10:26:38.759] Not starting server. Too many crashes.
+[Info  - 10:26:41.135] Starting TS Server 
+[Info  - 10:26:41.135] Not starting server. Too many crashes.
+[Info  - 10:26:41.905] Starting TS Server 
+[Info  - 10:26:41.905] Not starting server. Too many crashes.
+[Info  - 10:26:41.991] Starting TS Server 
+[Info  - 10:26:41.991] Not starting server. Too many crashes.
+[Info  - 10:26:42.91] Starting TS Server 
+[Info  - 10:26:42.91] Not starting server. Too many crashes.
+[Info  - 10:26:42.242] Starting TS Server 
+[Info  - 10:26:42.242] Not starting server. Too many crashes.
+[Info  - 10:26:42.406] Starting TS Server 
+[Info  - 10:26:42.407] Not starting server. Too many crashes.
+[Info  - 10:26:42.419] Starting TS Server 
+[Info  - 10:26:42.419] Not starting server. Too many crashes.
+[Info  - 10:26:42.502] Starting TS Server 
+[Info  - 10:26:42.502] Not starting server. Too many crashes.
+[Info  - 10:26:42.602] Starting TS Server 
+[Info  - 10:26:42.602] Not starting server. Too many crashes.
+[Info  - 10:26:42.762] Starting TS Server 
+[Info  - 10:26:42.762] Not starting server. Too many crashes.
+[Info  - 10:26:42.765] Starting TS Server 
+[Info  - 10:26:42.765] Not starting server. Too many crashes.
+[Info  - 10:26:42.842] Starting TS Server 
+[Info  - 10:26:42.842] Not starting server. Too many crashes.
+[Info  - 10:26:42.933] Starting TS Server 
+[Info  - 10:26:42.933] Not starting server. Too many crashes.
+[Info  - 10:26:43.26] Starting TS Server 
+[Info  - 10:26:43.26] Not starting server. Too many crashes.
+[Info  - 10:26:43.126] Starting TS Server 
+[Info  - 10:26:43.126] Not starting server. Too many crashes.
+[Info  - 10:26:43.276] Starting TS Server 
+[Info  - 10:26:43.276] Not starting server. Too many crashes.
+[Info  - 10:26:43.984] Starting TS Server 
+[Info  - 10:26:43.984] Not starting server. Too many crashes.
+[Info  - 10:26:44.81] Starting TS Server 
+[Info  - 10:26:44.81] Not starting server. Too many crashes.
+[Info  - 10:26:44.181] Starting TS Server 
+[Info  - 10:26:44.181] Not starting server. Too many crashes.
+[Info  - 10:26:44.331] Starting TS Server 
+[Info  - 10:26:44.331] Not starting server. Too many crashes.
+[Info  - 10:26:47.893] Starting TS Server 
+[Info  - 10:26:47.893] Not starting server. Too many crashes.
+[Info  - 10:26:48.176] Starting TS Server 
+[Info  - 10:26:48.176] Not starting server. Too many crashes.
+[Info  - 10:26:48.795] Starting TS Server 
+[Info  - 10:26:48.795] Not starting server. Too many crashes.
+[Info  - 10:26:48.884] Starting TS Server 
+[Info  - 10:26:48.884] Not starting server. Too many crashes.
+[Info  - 10:26:48.983] Starting TS Server 
+[Info  - 10:26:48.983] Not starting server. Too many crashes.
+[Info  - 10:26:49.133] Starting TS Server 
+[Info  - 10:26:49.133] Not starting server. Too many crashes.
+[Info  - 10:26:49.656] Starting TS Server 
+[Info  - 10:26:49.656] Not starting server. Too many crashes.
+[Info  - 10:26:57.478] Starting TS Server 
+[Info  - 10:26:57.478] Not starting server. Too many crashes.
+[Info  - 10:26:57.491] Starting TS Server 
+[Info  - 10:26:57.491] Not starting server. Too many crashes.
+[Info  - 10:26:59.633] Starting TS Server 
+[Info  - 10:26:59.633] Not starting server. Too many crashes.
+[Info  - 10:26:59.721] Starting TS Server 
+[Info  - 10:26:59.721] Not starting server. Too many crashes.
+[Info  - 10:26:59.820] Starting TS Server 
+[Info  - 10:26:59.820] Not starting server. Too many crashes.
+[Info  - 10:26:59.934] Starting TS Server 
+[Info  - 10:26:59.934] Not starting server. Too many crashes.
+[Info  - 10:26:59.971] Starting TS Server 
+[Info  - 10:26:59.971] Not starting server. Too many crashes.
+[Info  - 10:27:00.478] Starting TS Server 
+[Info  - 10:27:00.478] Not starting server. Too many crashes.
+[Info  - 10:27:22.137] Starting TS Server 
+[Info  - 10:27:22.137] Not starting server. Too many crashes.
+[Info  - 10:27:23.436] Starting TS Server 
+[Info  - 10:27:23.436] Not starting server. Too many crashes.
+[Info  - 10:27:23.533] Starting TS Server 
+[Info  - 10:27:23.533] Not starting server. Too many crashes.
+[Info  - 10:27:23.633] Starting TS Server 
+[Info  - 10:27:23.633] Not starting server. Too many crashes.
+[Info  - 10:27:23.739] Starting TS Server 
+[Info  - 10:27:23.739] Not starting server. Too many crashes.
+[Info  - 10:27:23.783] Starting TS Server 
+[Info  - 10:27:23.783] Not starting server. Too many crashes.
+[Info  - 10:27:24.283] Starting TS Server 
+[Info  - 10:27:24.283] Not starting server. Too many crashes.
+[Info  - 10:27:30.983] Starting TS Server 
+[Info  - 10:27:30.983] Not starting server. Too many crashes.
+[Info  - 10:27:31.80] Starting TS Server 
+[Info  - 10:27:31.80] Not starting server. Too many crashes.
+[Info  - 10:27:31.180] Starting TS Server 
+[Info  - 10:27:31.180] Not starting server. Too many crashes.
+[Info  - 10:27:31.284] Starting TS Server 
+[Info  - 10:27:31.285] Not starting server. Too many crashes.
+[Info  - 10:27:31.331] Starting TS Server 
+[Info  - 10:27:31.331] Not starting server. Too many crashes.
+[Info  - 10:27:32.350] Starting TS Server 
+[Info  - 10:27:32.350] Not starting server. Too many crashes.
+[Info  - 10:27:41.640] Starting TS Server 
+[Info  - 10:27:41.640] Not starting server. Too many crashes.
+[Info  - 10:27:41.841] Starting TS Server 
+[Info  - 10:27:41.841] Not starting server. Too many crashes.
+[Info  - 10:27:43.139] Starting TS Server 
+[Info  - 10:27:43.139] Not starting server. Too many crashes.
+[Info  - 10:27:44.245] Starting TS Server 
+[Info  - 10:27:44.245] Not starting server. Too many crashes.
+[Info  - 10:27:44.565] Starting TS Server 
+[Info  - 10:27:44.565] Not starting server. Too many crashes.
+[Info  - 10:27:45.485] Starting TS Server 
+[Info  - 10:27:45.485] Not starting server. Too many crashes.
+[Info  - 10:27:45.568] Starting TS Server 
+[Info  - 10:27:45.568] Not starting server. Too many crashes.
+[Info  - 10:27:45.669] Starting TS Server 
+[Info  - 10:27:45.669] Not starting server. Too many crashes.
+[Info  - 10:27:45.686] Starting TS Server 
+[Info  - 10:27:45.686] Not starting server. Too many crashes.
+[Info  - 10:27:45.778] Starting TS Server 
+[Info  - 10:27:45.778] Not starting server. Too many crashes.
+[Info  - 10:27:45.787] Starting TS Server 
+[Info  - 10:27:45.787] Not starting server. Too many crashes.
+[Info  - 10:27:45.841] Starting TS Server 
+[Info  - 10:27:45.841] Not starting server. Too many crashes.
+[Info  - 10:27:45.928] Starting TS Server 
+[Info  - 10:27:45.928] Not starting server. Too many crashes.
+[Info  - 10:27:46.28] Starting TS Server 
+[Info  - 10:27:46.28] Not starting server. Too many crashes.
+[Info  - 10:27:46.178] Starting TS Server 
+[Info  - 10:27:46.178] Not starting server. Too many crashes.
+[Info  - 10:27:47.19] Starting TS Server 
+[Info  - 10:27:47.19] Not starting server. Too many crashes.
+[Info  - 10:27:47.100] Starting TS Server 
+[Info  - 10:27:47.100] Not starting server. Too many crashes.
+[Info  - 10:27:47.200] Starting TS Server 
+[Info  - 10:27:47.200] Not starting server. Too many crashes.
+[Info  - 10:27:47.351] Starting TS Server 
+[Info  - 10:27:47.351] Not starting server. Too many crashes.
+[Info  - 10:27:47.773] Starting TS Server 
+[Info  - 10:27:47.773] Not starting server. Too many crashes.
+[Info  - 10:29:17.112] Starting TS Server 
+[Info  - 10:29:17.112] Not starting server. Too many crashes.
+[Info  - 10:29:17.211] Starting TS Server 
+[Info  - 10:29:17.211] Not starting server. Too many crashes.
+[Info  - 10:29:17.312] Starting TS Server 
+[Info  - 10:29:17.312] Not starting server. Too many crashes.
+[Info  - 10:29:17.413] Starting TS Server 
+[Info  - 10:29:17.413] Not starting server. Too many crashes.
+[Info  - 10:29:17.462] Starting TS Server 
+[Info  - 10:29:17.462] Not starting server. Too many crashes.
+[Info  - 10:29:17.708] Starting TS Server 
+[Info  - 10:29:17.708] Not starting server. Too many crashes.
+[Info  - 10:29:17.747] Starting TS Server 
+[Info  - 10:29:17.747] Not starting server. Too many crashes.
+[Info  - 10:29:17.788] Starting TS Server 
+[Info  - 10:29:17.788] Not starting server. Too many crashes.
+[Info  - 10:29:17.828] Starting TS Server 
+[Info  - 10:29:17.828] Not starting server. Too many crashes.
+[Info  - 10:29:17.869] Starting TS Server 
+[Info  - 10:29:17.869] Not starting server. Too many crashes.
+[Info  - 10:29:17.908] Starting TS Server 
+[Info  - 10:29:17.908] Not starting server. Too many crashes.
+[Info  - 10:29:17.948] Starting TS Server 
+[Info  - 10:29:17.948] Not starting server. Too many crashes.
+[Info  - 10:29:17.988] Starting TS Server 
+[Info  - 10:29:17.988] Not starting server. Too many crashes.
+[Info  - 10:29:18.86] Starting TS Server 
+[Info  - 10:29:18.87] Not starting server. Too many crashes.
+[Info  - 10:29:18.187] Starting TS Server 
+[Info  - 10:29:18.187] Not starting server. Too many crashes.
+[Info  - 10:29:18.336] Starting TS Server 
+[Info  - 10:29:18.336] Not starting server. Too many crashes.
+[Info  - 10:29:19.628] Starting TS Server 
+[Info  - 10:29:19.628] Not starting server. Too many crashes.
+[Info  - 10:29:20.158] Starting TS Server 
+[Info  - 10:29:20.158] Not starting server. Too many crashes.
+[Info  - 10:29:20.437] Starting TS Server 
+[Info  - 10:29:20.437] Not starting server. Too many crashes.
+[Info  - 10:29:20.508] Starting TS Server 
+[Info  - 10:29:20.508] Not starting server. Too many crashes.
+[Info  - 10:29:20.923] Starting TS Server 
+[Info  - 10:29:20.923] Not starting server. Too many crashes.
+[Info  - 10:29:21.224] Starting TS Server 
+[Info  - 10:29:21.224] Not starting server. Too many crashes.
+[Info  - 10:29:21.255] Starting TS Server 
+[Info  - 10:29:21.255] Not starting server. Too many crashes.
+[Info  - 10:29:21.351] Starting TS Server 
+[Info  - 10:29:21.351] Not starting server. Too many crashes.
+[Info  - 10:29:21.450] Starting TS Server 
+[Info  - 10:29:21.450] Not starting server. Too many crashes.
+[Info  - 10:29:21.557] Starting TS Server 
+[Info  - 10:29:21.557] Not starting server. Too many crashes.
+[Info  - 10:29:21.600] Starting TS Server 
+[Info  - 10:29:21.600] Not starting server. Too many crashes.
+[Info  - 10:29:21.748] Starting TS Server 
+[Info  - 10:29:21.748] Not starting server. Too many crashes.
+[Info  - 10:29:21.895] Starting TS Server 
+[Info  - 10:29:21.895] Not starting server. Too many crashes.
+[Info  - 10:29:23.632] Starting TS Server 
+[Info  - 10:29:23.632] Not starting server. Too many crashes.
+[Info  - 10:29:23.722] Starting TS Server 
+[Info  - 10:29:23.722] Not starting server. Too many crashes.
+[Info  - 10:29:23.822] Starting TS Server 
+[Info  - 10:29:23.822] Not starting server. Too many crashes.
+[Info  - 10:29:23.972] Starting TS Server 
+[Info  - 10:29:23.972] Not starting server. Too many crashes.
+[Info  - 10:29:24.85] Starting TS Server 
+[Info  - 10:29:24.85] Not starting server. Too many crashes.
+[Info  - 10:32:49.463] Starting TS Server 
+[Info  - 10:32:49.463] Not starting server. Too many crashes.
+[Info  - 10:32:49.479] Starting TS Server 
+[Info  - 10:32:49.479] Not starting server. Too many crashes.
+[Info  - 10:32:49.568] Starting TS Server 
+[Info  - 10:32:49.568] Not starting server. Too many crashes.
+[Info  - 10:32:49.667] Starting TS Server 
+[Info  - 10:32:49.667] Not starting server. Too many crashes.
+[Info  - 10:32:49.817] Starting TS Server 
+[Info  - 10:32:49.817] Not starting server. Too many crashes.
+[Info  - 10:33:20.418] Starting TS Server 
+[Info  - 10:33:20.418] Not starting server. Too many crashes.
+[Info  - 10:33:20.518] Starting TS Server 
+[Info  - 10:33:20.518] Not starting server. Too many crashes.
+[Info  - 10:33:20.635] Starting TS Server 
+[Info  - 10:33:20.635] Not starting server. Too many crashes.
+[Info  - 10:33:31.205] Starting TS Server 
+[Info  - 10:33:31.205] Not starting server. Too many crashes.
+[Info  - 10:33:31.293] Starting TS Server 
+[Info  - 10:33:31.293] Not starting server. Too many crashes.
+[Info  - 10:33:31.393] Starting TS Server 
+[Info  - 10:33:31.393] Not starting server. Too many crashes.
+[Info  - 10:33:31.506] Starting TS Server 
+[Info  - 10:33:31.506] Not starting server. Too many crashes.
+[Info  - 10:33:31.543] Starting TS Server 
+[Info  - 10:33:31.543] Not starting server. Too many crashes.
+[Info  - 10:33:33.278] Starting TS Server 
+[Info  - 10:33:33.278] Not starting server. Too many crashes.
+[Info  - 10:33:33.363] Starting TS Server 
+[Info  - 10:33:33.364] Not starting server. Too many crashes.
+[Info  - 10:33:33.464] Starting TS Server 
+[Info  - 10:33:33.464] Not starting server. Too many crashes.
+[Info  - 10:33:33.612] Starting TS Server 
+[Info  - 10:33:33.612] Not starting server. Too many crashes.
+[Info  - 10:33:34.16] Starting TS Server 
+[Info  - 10:33:34.16] Not starting server. Too many crashes.
+[Info  - 10:33:34.104] Starting TS Server 
+[Info  - 10:33:34.104] Not starting server. Too many crashes.
+[Info  - 10:33:34.204] Starting TS Server 
+[Info  - 10:33:34.204] Not starting server. Too many crashes.
+[Info  - 10:33:34.354] Starting TS Server 
+[Info  - 10:33:34.354] Not starting server. Too many crashes.
+[Info  - 10:33:34.667] Starting TS Server 
+[Info  - 10:33:34.667] Not starting server. Too many crashes.
+[Info  - 10:33:34.756] Starting TS Server 
+[Info  - 10:33:34.756] Not starting server. Too many crashes.
+[Info  - 10:33:34.856] Starting TS Server 
+[Info  - 10:33:34.856] Not starting server. Too many crashes.
+[Info  - 10:33:35.6] Starting TS Server 
+[Info  - 10:33:35.6] Not starting server. Too many crashes.
+[Info  - 10:33:35.388] Starting TS Server 
+[Info  - 10:33:35.388] Not starting server. Too many crashes.
+[Info  - 10:33:35.473] Starting TS Server 
+[Info  - 10:33:35.473] Not starting server. Too many crashes.
+[Info  - 10:33:35.573] Starting TS Server 
+[Info  - 10:33:35.573] Not starting server. Too many crashes.
+[Info  - 10:33:35.723] Starting TS Server 
+[Info  - 10:33:35.723] Not starting server. Too many crashes.
+[Info  - 10:33:36.668] Starting TS Server 
+[Info  - 10:33:36.668] Not starting server. Too many crashes.
+[Info  - 10:34:24.296] Starting TS Server 
+[Info  - 10:34:24.296] Not starting server. Too many crashes.
+[Info  - 10:34:24.956] Starting TS Server 
+[Info  - 10:34:24.956] Not starting server. Too many crashes.
+[Info  - 10:34:25.28] Starting TS Server 
+[Info  - 10:34:25.28] Not starting server. Too many crashes.
+[Info  - 10:34:25.128] Starting TS Server 
+[Info  - 10:34:25.128] Not starting server. Too many crashes.
+[Info  - 10:34:25.255] Starting TS Server 
+[Info  - 10:34:25.255] Not starting server. Too many crashes.
+[Info  - 10:38:31.611] Starting TS Server 
+[Info  - 10:38:31.611] Not starting server. Too many crashes.
+[Info  - 10:38:31.698] Starting TS Server 
+[Info  - 10:38:31.698] Not starting server. Too many crashes.
+[Info  - 10:38:31.798] Starting TS Server 
+[Info  - 10:38:31.798] Not starting server. Too many crashes.
+[Info  - 10:38:31.913] Starting TS Server 
+[Info  - 10:38:31.913] Not starting server. Too many crashes.
+[Info  - 10:38:31.948] Starting TS Server 
+[Info  - 10:38:31.948] Not starting server. Too many crashes.
+[Info  - 10:38:32.351] Starting TS Server 
+[Info  - 10:38:32.351] Not starting server. Too many crashes.
+[Info  - 10:38:32.448] Starting TS Server 
+[Info  - 10:38:32.448] Not starting server. Too many crashes.
+[Info  - 10:38:32.548] Starting TS Server 
+[Info  - 10:38:32.548] Not starting server. Too many crashes.
+[Info  - 10:38:32.698] Starting TS Server 
+[Info  - 10:38:32.698] Not starting server. Too many crashes.
+[Info  - 10:38:32.952] Starting TS Server 
+[Info  - 10:38:32.952] Not starting server. Too many crashes.
+[Info  - 10:38:33.47] Starting TS Server 
+[Info  - 10:38:33.47] Not starting server. Too many crashes.
+[Info  - 10:38:33.148] Starting TS Server 
+[Info  - 10:38:33.148] Not starting server. Too many crashes.
+[Info  - 10:38:33.297] Starting TS Server 
+[Info  - 10:38:33.297] Not starting server. Too many crashes.
+[Info  - 10:38:33.456] Starting TS Server 
+[Info  - 10:38:33.456] Not starting server. Too many crashes.
+[Info  - 10:38:33.543] Starting TS Server 
+[Info  - 10:38:33.543] Not starting server. Too many crashes.
+[Info  - 10:38:33.643] Starting TS Server 
+[Info  - 10:38:33.643] Not starting server. Too many crashes.
+[Info  - 10:38:33.793] Starting TS Server 
+[Info  - 10:38:33.793] Not starting server. Too many crashes.
+[Info  - 10:38:33.922] Starting TS Server 
+[Info  - 10:38:33.922] Not starting server. Too many crashes.
+[Info  - 10:38:34.9] Starting TS Server 
+[Info  - 10:38:34.9] Not starting server. Too many crashes.
+[Info  - 10:38:34.110] Starting TS Server 
+[Info  - 10:38:34.110] Not starting server. Too many crashes.
+[Info  - 10:38:34.259] Starting TS Server 
+[Info  - 10:38:34.259] Not starting server. Too many crashes.
+[Info  - 10:38:35.356] Starting TS Server 
+[Info  - 10:38:35.356] Not starting server. Too many crashes.
+[Info  - 10:44:46.839] Starting TS Server 
+[Info  - 10:44:46.839] Not starting server. Too many crashes.
+[Info  - 10:44:46.936] Starting TS Server 
+[Info  - 10:44:46.936] Not starting server. Too many crashes.
+[Info  - 10:44:47.57] Starting TS Server 
+[Info  - 10:44:47.57] Not starting server. Too many crashes.
+[Info  - 10:44:51.814] Starting TS Server 
+[Info  - 10:44:51.814] Not starting server. Too many crashes.
+[Info  - 10:44:51.901] Starting TS Server 
+[Info  - 10:44:51.901] Not starting server. Too many crashes.
+[Info  - 10:44:52.1] Starting TS Server 
+[Info  - 10:44:52.1] Not starting server. Too many crashes.
+[Info  - 10:44:52.116] Starting TS Server 
+[Info  - 10:44:52.116] Not starting server. Too many crashes.
+[Info  - 10:44:52.151] Starting TS Server 
+[Info  - 10:44:52.151] Not starting server. Too many crashes.
+[Info  - 10:44:52.532] Starting TS Server 
+[Info  - 10:44:52.532] Not starting server. Too many crashes.
+[Info  - 10:44:55.165] Starting TS Server 
+[Info  - 10:44:55.165] Not starting server. Too many crashes.
+[Info  - 11:06:51.847] Starting TS Server 
+[Info  - 11:06:51.847] Not starting server. Too many crashes.
+[Info  - 11:06:51.926] Starting TS Server 
+[Info  - 11:06:51.926] Not starting server. Too many crashes.
+[Info  - 11:06:52.26] Starting TS Server 
+[Info  - 11:06:52.26] Not starting server. Too many crashes.
+[Info  - 11:06:52.147] Starting TS Server 
+[Info  - 11:06:52.147] Not starting server. Too many crashes.
+[Info  - 11:06:57.840] Starting TS Server 
+[Info  - 11:06:57.840] Not starting server. Too many crashes.
+[Info  - 11:06:57.920] Starting TS Server 
+[Info  - 11:06:57.920] Not starting server. Too many crashes.
+[Info  - 11:06:58.20] Starting TS Server 
+[Info  - 11:06:58.20] Not starting server. Too many crashes.
+[Info  - 11:06:58.139] Starting TS Server 
+[Info  - 11:06:58.139] Not starting server. Too many crashes.
+[Info  - 11:06:59.435] Starting TS Server 
+[Info  - 11:06:59.435] Not starting server. Too many crashes.
+[Info  - 11:06:59.520] Starting TS Server 
+[Info  - 11:06:59.520] Not starting server. Too many crashes.
+[Info  - 11:06:59.617] Starting TS Server 
+[Info  - 11:06:59.617] Not starting server. Too many crashes.
+[Info  - 11:06:59.735] Starting TS Server 
+[Info  - 11:06:59.735] Not starting server. Too many crashes.
+[Info  - 11:09:02.651] Starting TS Server 
+[Info  - 11:09:02.651] Not starting server. Too many crashes.
+[Info  - 11:09:02.730] Starting TS Server 
+[Info  - 11:09:02.730] Not starting server. Too many crashes.
+[Info  - 11:09:02.829] Starting TS Server 
+[Info  - 11:09:02.829] Not starting server. Too many crashes.
+[Info  - 11:09:02.951] Starting TS Server 
+[Info  - 11:09:02.951] Not starting server. Too many crashes.
+[Info  - 11:27:04.139] Starting TS Server 
+[Info  - 11:27:04.139] Not starting server. Too many crashes.
+[Info  - 11:27:04.217] Starting TS Server 
+[Info  - 11:27:04.217] Not starting server. Too many crashes.
+[Info  - 11:27:04.317] Starting TS Server 
+[Info  - 11:27:04.317] Not starting server. Too many crashes.
+[Info  - 11:27:04.439] Starting TS Server 
+[Info  - 11:27:04.439] Not starting server. Too many crashes.
+[Info  - 11:30:33.940] Starting TS Server 
+[Info  - 11:30:33.940] Not starting server. Too many crashes.
+[Info  - 11:30:34.39] Starting TS Server 
+[Info  - 11:30:34.39] Not starting server. Too many crashes.
+[Info  - 11:30:34.177] Starting TS Server 
+[Info  - 11:30:34.177] Not starting server. Too many crashes.
+[Info  - 11:31:33.566] Starting TS Server 
+[Info  - 11:31:33.566] Not starting server. Too many crashes.
+[Info  - 11:31:33.646] Starting TS Server 
+[Info  - 11:31:33.646] Not starting server. Too many crashes.
+[Info  - 11:31:33.746] Starting TS Server 
+[Info  - 11:31:33.746] Not starting server. Too many crashes.
+[Info  - 11:31:33.866] Starting TS Server 
+[Info  - 11:31:33.866] Not starting server. Too many crashes.
+[Info  - 11:31:36.163] Starting TS Server 
+[Info  - 11:31:36.163] Not starting server. Too many crashes.
+[Info  - 11:31:36.244] Starting TS Server 
+[Info  - 11:31:36.244] Not starting server. Too many crashes.
+[Info  - 11:31:36.341] Starting TS Server 
+[Info  - 11:31:36.341] Not starting server. Too many crashes.
+[Info  - 11:31:36.462] Starting TS Server 
+[Info  - 11:31:36.462] Not starting server. Too many crashes.
+[Info  - 11:31:37.671] Starting TS Server 
+[Info  - 11:31:37.671] Not starting server. Too many crashes.
+[Info  - 11:31:37.752] Starting TS Server 
+[Info  - 11:31:37.752] Not starting server. Too many crashes.
+[Info  - 11:31:37.852] Starting TS Server 
+[Info  - 11:31:37.852] Not starting server. Too many crashes.
+[Info  - 11:31:37.971] Starting TS Server 
+[Info  - 11:31:37.971] Not starting server. Too many crashes.
+[Info  - 11:47:26.941] Starting TS Server 
+[Info  - 11:47:26.941] Not starting server. Too many crashes.
+[Info  - 11:47:27.20] Starting TS Server 
+[Info  - 11:47:27.20] Not starting server. Too many crashes.
+[Info  - 11:47:27.117] Starting TS Server 
+[Info  - 11:47:27.117] Not starting server. Too many crashes.
+[Info  - 11:47:27.240] Starting TS Server 
+[Info  - 11:47:27.240] Not starting server. Too many crashes.
+[Info  - 12:04:05.768] Starting TS Server 
+[Info  - 12:04:05.768] Not starting server. Too many crashes.
+[Info  - 12:04:05.837] Starting TS Server 
+[Info  - 12:04:05.837] Not starting server. Too many crashes.
+[Info  - 12:04:05.937] Starting TS Server 
+[Info  - 12:04:05.937] Not starting server. Too many crashes.
+[Info  - 12:04:06.68] Starting TS Server 
+[Info  - 12:04:06.68] Not starting server. Too many crashes.
+[Info  - 12:04:07.927] Starting TS Server 
+[Info  - 12:04:07.927] Not starting server. Too many crashes.
+[Info  - 12:04:07.996] Starting TS Server 
+[Info  - 12:04:07.996] Not starting server. Too many crashes.
+[Info  - 12:04:08.96] Starting TS Server 
+[Info  - 12:04:08.96] Not starting server. Too many crashes.
+[Info  - 12:04:08.227] Starting TS Server 
+[Info  - 12:04:08.227] Not starting server. Too many crashes.
+[Info  - 12:04:10.120] Starting TS Server 
+[Info  - 12:04:10.120] Not starting server. Too many crashes.
+[Info  - 12:04:10.320] Starting TS Server 
+[Info  - 12:04:10.320] Not starting server. Too many crashes.
+[Info  - 12:04:11.38] Starting TS Server 
+[Info  - 12:04:11.38] Not starting server. Too many crashes.
+[Info  - 12:04:11.408] Starting TS Server 
+[Info  - 12:04:11.408] Not starting server. Too many crashes.
+[Info  - 12:04:11.763] Starting TS Server 
+[Info  - 12:04:11.763] Not starting server. Too many crashes.
+[Info  - 12:04:12.711] Starting TS Server 
+[Info  - 12:04:12.711] Not starting server. Too many crashes.
+[Info  - 12:04:17.591] Starting TS Server 
+[Info  - 12:04:17.591] Not starting server. Too many crashes.
+[Info  - 12:04:19.932] Starting TS Server 
+[Info  - 12:04:19.932] Not starting server. Too many crashes.
+[Info  - 12:04:20.17] Starting TS Server 
+[Info  - 12:04:20.17] Not starting server. Too many crashes.
+[Info  - 12:04:20.117] Starting TS Server 
+[Info  - 12:04:20.117] Not starting server. Too many crashes.
+[Info  - 12:04:20.234] Starting TS Server 
+[Info  - 12:04:20.234] Not starting server. Too many crashes.
+[Info  - 12:04:20.268] Starting TS Server 
+[Info  - 12:04:20.268] Not starting server. Too many crashes.
+[Info  - 12:04:20.519] Starting TS Server 
+[Info  - 12:04:20.519] Not starting server. Too many crashes.
+[Info  - 12:04:20.558] Starting TS Server 
+[Info  - 12:04:20.558] Not starting server. Too many crashes.
+[Info  - 12:04:20.656] Starting TS Server 
+[Info  - 12:04:20.656] Not starting server. Too many crashes.
+[Info  - 12:04:20.756] Starting TS Server 
+[Info  - 12:04:20.756] Not starting server. Too many crashes.
+[Info  - 12:04:20.906] Starting TS Server 
+[Info  - 12:04:20.906] Not starting server. Too many crashes.
+[Info  - 12:04:21.387] Starting TS Server 
+[Info  - 12:04:21.387] Not starting server. Too many crashes.
+[Info  - 12:04:21.475] Starting TS Server 
+[Info  - 12:04:21.475] Not starting server. Too many crashes.
+[Info  - 12:04:21.575] Starting TS Server 
+[Info  - 12:04:21.575] Not starting server. Too many crashes.
+[Info  - 12:04:21.625] Starting TS Server 
+[Info  - 12:04:21.625] Not starting server. Too many crashes.
+[Info  - 12:04:21.714] Starting TS Server 
+[Info  - 12:04:21.714] Not starting server. Too many crashes.
+[Info  - 12:04:21.814] Starting TS Server 
+[Info  - 12:04:21.814] Not starting server. Too many crashes.
+[Info  - 12:04:21.825] Starting TS Server 
+[Info  - 12:04:21.825] Not starting server. Too many crashes.
+[Info  - 12:04:21.924] Starting TS Server 
+[Info  - 12:04:21.924] Not starting server. Too many crashes.
+[Info  - 12:04:22.24] Starting TS Server 
+[Info  - 12:04:22.24] Not starting server. Too many crashes.
+[Info  - 12:04:22.50] Starting TS Server 
+[Info  - 12:04:22.50] Not starting server. Too many crashes.
+[Info  - 12:04:22.137] Starting TS Server 
+[Info  - 12:04:22.137] Not starting server. Too many crashes.
+[Info  - 12:04:22.238] Starting TS Server 
+[Info  - 12:04:22.238] Not starting server. Too many crashes.
+[Info  - 12:04:22.295] Starting TS Server 
+[Info  - 12:04:22.295] Not starting server. Too many crashes.
+[Info  - 12:04:22.384] Starting TS Server 
+[Info  - 12:04:22.384] Not starting server. Too many crashes.
+[Info  - 12:04:22.484] Starting TS Server 
+[Info  - 12:04:22.484] Not starting server. Too many crashes.
+[Info  - 12:04:22.540] Starting TS Server 
+[Info  - 12:04:22.540] Not starting server. Too many crashes.
+[Info  - 12:04:22.631] Starting TS Server 
+[Info  - 12:04:22.631] Not starting server. Too many crashes.
+[Info  - 12:04:22.731] Starting TS Server 
+[Info  - 12:04:22.731] Not starting server. Too many crashes.
+[Info  - 12:04:22.797] Starting TS Server 
+[Info  - 12:04:22.797] Not starting server. Too many crashes.
+[Info  - 12:04:22.895] Starting TS Server 
+[Info  - 12:04:22.895] Not starting server. Too many crashes.
+[Info  - 12:04:22.995] Starting TS Server 
+[Info  - 12:04:22.995] Not starting server. Too many crashes.
+[Info  - 12:04:23.145] Starting TS Server 
+[Info  - 12:04:23.145] Not starting server. Too many crashes.
+[Info  - 12:04:24.43] Starting TS Server 
+[Info  - 12:04:24.43] Not starting server. Too many crashes.
+[Info  - 12:04:24.46] Starting TS Server 
+[Info  - 12:04:24.46] Not starting server. Too many crashes.
+[Info  - 12:04:24.125] Starting TS Server 
+[Info  - 12:04:24.125] Not starting server. Too many crashes.
+[Info  - 12:04:24.144] Starting TS Server 
+[Info  - 12:04:24.144] Not starting server. Too many crashes.
+[Info  - 12:04:24.225] Starting TS Server 
+[Info  - 12:04:24.225] Not starting server. Too many crashes.
+[Info  - 12:04:24.375] Starting TS Server 
+[Info  - 12:04:24.375] Not starting server. Too many crashes.
+[Info  - 12:04:26.401] Starting TS Server 
+[Info  - 12:04:26.401] Not starting server. Too many crashes.
+[Info  - 12:04:26.405] Starting TS Server 
+[Info  - 12:04:26.405] Not starting server. Too many crashes.
+[Info  - 12:04:26.510] Starting TS Server 
+[Info  - 12:04:26.510] Not starting server. Too many crashes.
+[Info  - 12:04:26.590] Starting TS Server 
+[Info  - 12:04:26.590] Not starting server. Too many crashes.
+[Info  - 12:04:26.703] Starting TS Server 
+[Info  - 12:04:26.703] Not starting server. Too many crashes.
+[Info  - 12:04:26.790] Starting TS Server 
+[Info  - 12:04:26.790] Not starting server. Too many crashes.
+[Info  - 12:04:26.889] Starting TS Server 
+[Info  - 12:04:26.889] Not starting server. Too many crashes.
+[Info  - 12:04:27.40] Starting TS Server 
+[Info  - 12:04:27.40] Not starting server. Too many crashes.
+[Info  - 12:04:27.245] Starting TS Server 
+[Info  - 12:04:27.245] Not starting server. Too many crashes.
+[Info  - 12:04:27.335] Starting TS Server 
+[Info  - 12:04:27.335] Not starting server. Too many crashes.
+[Info  - 12:04:27.435] Starting TS Server 
+[Info  - 12:04:27.435] Not starting server. Too many crashes.
+[Info  - 12:04:27.495] Starting TS Server 
+[Info  - 12:04:27.495] Not starting server. Too many crashes.
+[Info  - 12:04:27.574] Starting TS Server 
+[Info  - 12:04:27.574] Not starting server. Too many crashes.
+[Info  - 12:04:27.674] Starting TS Server 
+[Info  - 12:04:27.674] Not starting server. Too many crashes.
+[Info  - 12:04:27.824] Starting TS Server 
+[Info  - 12:04:27.824] Not starting server. Too many crashes.
+[Info  - 12:04:28.165] Starting TS Server 
+[Info  - 12:04:28.165] Not starting server. Too many crashes.
+[Info  - 12:04:28.248] Starting TS Server 
+[Info  - 12:04:28.248] Not starting server. Too many crashes.
+[Info  - 12:04:28.348] Starting TS Server 
+[Info  - 12:04:28.348] Not starting server. Too many crashes.
+[Info  - 12:04:28.498] Starting TS Server 
+[Info  - 12:04:28.498] Not starting server. Too many crashes.
+[Info  - 12:04:29.222] Starting TS Server 
+[Info  - 12:04:29.222] Not starting server. Too many crashes.
+[Info  - 12:04:29.320] Starting TS Server 
+[Info  - 12:04:29.320] Not starting server. Too many crashes.
+[Info  - 12:04:29.420] Starting TS Server 
+[Info  - 12:04:29.420] Not starting server. Too many crashes.
+[Info  - 12:04:29.570] Starting TS Server 
+[Info  - 12:04:29.570] Not starting server. Too many crashes.
+[Info  - 12:04:29.629] Starting TS Server 
+[Info  - 12:04:29.629] Not starting server. Too many crashes.
+[Info  - 12:04:29.631] Starting TS Server 
+[Info  - 12:04:29.631] Not starting server. Too many crashes.
+[Info  - 12:04:29.718] Starting TS Server 
+[Info  - 12:04:29.718] Not starting server. Too many crashes.
+[Info  - 12:04:29.731] Starting TS Server 
+[Info  - 12:04:29.731] Not starting server. Too many crashes.
+[Info  - 12:04:29.818] Starting TS Server 
+[Info  - 12:04:29.818] Not starting server. Too many crashes.
+[Info  - 12:04:29.968] Starting TS Server 
+[Info  - 12:04:29.968] Not starting server. Too many crashes.
+[Info  - 12:04:32.247] Starting TS Server 
+[Info  - 12:04:32.247] Not starting server. Too many crashes.
+[Info  - 12:04:32.251] Starting TS Server 
+[Info  - 12:04:32.251] Not starting server. Too many crashes.
+[Info  - 12:04:32.336] Starting TS Server 
+[Info  - 12:04:32.336] Not starting server. Too many crashes.
+[Info  - 12:04:32.436] Starting TS Server 
+[Info  - 12:04:32.436] Not starting server. Too many crashes.
+[Info  - 12:04:32.586] Starting TS Server 
+[Info  - 12:04:32.586] Not starting server. Too many crashes.
+[Info  - 12:04:32.781] Starting TS Server 
+[Info  - 12:04:32.781] Not starting server. Too many crashes.
+[Info  - 12:04:32.870] Starting TS Server 
+[Info  - 12:04:32.870] Not starting server. Too many crashes.
+[Info  - 12:04:32.981] Starting TS Server 
+[Info  - 12:04:32.981] Not starting server. Too many crashes.
+[Info  - 12:04:33.68] Starting TS Server 
+[Info  - 12:04:33.68] Not starting server. Too many crashes.
+[Info  - 12:04:33.167] Starting TS Server 
+[Info  - 12:04:33.167] Not starting server. Too many crashes.
+[Info  - 12:04:33.317] Starting TS Server 
+[Info  - 12:04:33.318] Not starting server. Too many crashes.
+[Info  - 12:04:36.36] Starting TS Server 
+[Info  - 12:04:36.36] Not starting server. Too many crashes.
+[Info  - 12:04:36.127] Starting TS Server 
+[Info  - 12:04:36.127] Not starting server. Too many crashes.
+[Info  - 12:04:36.227] Starting TS Server 
+[Info  - 12:04:36.228] Not starting server. Too many crashes.
+[Info  - 12:04:36.324] Starting TS Server 
+[Info  - 12:04:36.324] Not starting server. Too many crashes.
+[Info  - 12:04:36.413] Starting TS Server 
+[Info  - 12:04:36.413] Not starting server. Too many crashes.
+[Info  - 12:04:36.513] Starting TS Server 
+[Info  - 12:04:36.513] Not starting server. Too many crashes.
+[Info  - 12:04:36.561] Starting TS Server 
+[Info  - 12:04:36.561] Not starting server. Too many crashes.
+[Info  - 12:04:36.645] Starting TS Server 
+[Info  - 12:04:36.645] Not starting server. Too many crashes.
+[Info  - 12:04:36.744] Starting TS Server 
+[Info  - 12:04:36.744] Not starting server. Too many crashes.
+[Info  - 12:04:36.895] Starting TS Server 
+[Info  - 12:04:36.895] Not starting server. Too many crashes.
+[Info  - 12:04:37.483] Starting TS Server 
+[Info  - 12:04:37.483] Not starting server. Too many crashes.
+[Info  - 12:04:37.575] Starting TS Server 
+[Info  - 12:04:37.575] Not starting server. Too many crashes.
+[Info  - 12:04:37.675] Starting TS Server 
+[Info  - 12:04:37.675] Not starting server. Too many crashes.
+[Info  - 12:04:37.746] Starting TS Server 
+[Info  - 12:04:37.746] Not starting server. Too many crashes.
+[Info  - 12:04:37.843] Starting TS Server 
+[Info  - 12:04:37.843] Not starting server. Too many crashes.
+[Info  - 12:04:37.944] Starting TS Server 
+[Info  - 12:04:37.944] Not starting server. Too many crashes.
+[Info  - 12:04:38.55] Starting TS Server 
+[Info  - 12:04:38.55] Not starting server. Too many crashes.
+[Info  - 12:04:38.154] Starting TS Server 
+[Info  - 12:04:38.154] Not starting server. Too many crashes.
+[Info  - 12:04:38.254] Starting TS Server 
+[Info  - 12:04:38.254] Not starting server. Too many crashes.
+[Info  - 12:04:38.387] Starting TS Server 
+[Info  - 12:04:38.387] Not starting server. Too many crashes.
+[Info  - 12:04:38.486] Starting TS Server 
+[Info  - 12:04:38.486] Not starting server. Too many crashes.
+[Info  - 12:04:38.586] Starting TS Server 
+[Info  - 12:04:38.586] Not starting server. Too many crashes.
+[Info  - 12:04:38.700] Starting TS Server 
+[Info  - 12:04:38.700] Not starting server. Too many crashes.
+[Info  - 12:04:38.798] Starting TS Server 
+[Info  - 12:04:38.798] Not starting server. Too many crashes.
+[Info  - 12:04:38.898] Starting TS Server 
+[Info  - 12:04:38.898] Not starting server. Too many crashes.
+[Info  - 12:04:39.1] Starting TS Server 
+[Info  - 12:04:39.1] Not starting server. Too many crashes.
+[Info  - 12:04:39.48] Starting TS Server 
+[Info  - 12:04:39.48] Not starting server. Too many crashes.
+[Info  - 12:04:40.174] Starting TS Server 
+[Info  - 12:04:40.174] Not starting server. Too many crashes.
+[Info  - 12:04:40.260] Starting TS Server 
+[Info  - 12:04:40.260] Not starting server. Too many crashes.
+[Info  - 12:04:40.360] Starting TS Server 
+[Info  - 12:04:40.360] Not starting server. Too many crashes.
+[Info  - 12:04:40.379] Starting TS Server 
+[Info  - 12:04:40.379] Not starting server. Too many crashes.
+[Info  - 12:04:40.469] Starting TS Server 
+[Info  - 12:04:40.469] Not starting server. Too many crashes.
+[Info  - 12:04:40.475] Starting TS Server 
+[Info  - 12:04:40.475] Not starting server. Too many crashes.
+[Info  - 12:04:40.562] Starting TS Server 
+[Info  - 12:04:40.562] Not starting server. Too many crashes.
+[Info  - 12:04:40.652] Starting TS Server 
+[Info  - 12:04:40.652] Not starting server. Too many crashes.
+[Info  - 12:04:40.761] Starting TS Server 
+[Info  - 12:04:40.761] Not starting server. Too many crashes.
+[Info  - 12:04:40.850] Starting TS Server 
+[Info  - 12:04:40.850] Not starting server. Too many crashes.
+[Info  - 12:04:40.950] Starting TS Server 
+[Info  - 12:04:40.950] Not starting server. Too many crashes.
+[Info  - 12:04:41.34] Starting TS Server 
+[Info  - 12:04:41.34] Not starting server. Too many crashes.
+[Info  - 12:04:41.132] Starting TS Server 
+[Info  - 12:04:41.132] Not starting server. Too many crashes.
+[Info  - 12:04:41.231] Starting TS Server 
+[Info  - 12:04:41.231] Not starting server. Too many crashes.
+[Info  - 12:04:41.382] Starting TS Server 
+[Info  - 12:04:41.382] Not starting server. Too many crashes.
+[Info  - 12:04:41.803] Starting TS Server 
+[Info  - 12:04:41.803] Not starting server. Too many crashes.
+[Info  - 12:04:41.805] Starting TS Server 
+[Info  - 12:04:41.805] Not starting server. Too many crashes.
+[Info  - 12:04:41.891] Starting TS Server 
+[Info  - 12:04:41.891] Not starting server. Too many crashes.
+[Info  - 12:04:41.958] Starting TS Server 
+[Info  - 12:04:41.958] Not starting server. Too many crashes.
+[Info  - 12:04:41.963] Starting TS Server 
+[Info  - 12:04:41.963] Not starting server. Too many crashes.
+[Info  - 12:04:42.45] Starting TS Server 
+[Info  - 12:04:42.45] Not starting server. Too many crashes.
+[Info  - 12:04:42.145] Starting TS Server 
+[Info  - 12:04:42.145] Not starting server. Too many crashes.
+[Info  - 12:04:42.295] Starting TS Server 
+[Info  - 12:04:42.295] Not starting server. Too many crashes.
+[Info  - 12:04:42.680] Starting TS Server 
+[Info  - 12:04:42.680] Not starting server. Too many crashes.
+[Info  - 12:04:42.761] Starting TS Server 
+[Info  - 12:04:42.761] Not starting server. Too many crashes.
+[Info  - 12:04:42.860] Starting TS Server 
+[Info  - 12:04:42.860] Not starting server. Too many crashes.
+[Info  - 12:04:43.11] Starting TS Server 
+[Info  - 12:04:43.11] Not starting server. Too many crashes.
+[Info  - 12:04:43.515] Starting TS Server 
+[Info  - 12:04:43.515] Not starting server. Too many crashes.
+[Info  - 12:04:43.597] Starting TS Server 
+[Info  - 12:04:43.597] Not starting server. Too many crashes.
+[Info  - 12:04:43.697] Starting TS Server 
+[Info  - 12:04:43.697] Not starting server. Too many crashes.
+[Info  - 12:04:43.847] Starting TS Server 
+[Info  - 12:04:43.847] Not starting server. Too many crashes.
+[Info  - 12:04:45.383] Starting TS Server 
+[Info  - 12:04:45.383] Not starting server. Too many crashes.
+[Info  - 12:04:45.943] Starting TS Server 
+[Info  - 12:04:45.943] Not starting server. Too many crashes.
+[Info  - 12:04:46.42] Starting TS Server 
+[Info  - 12:04:46.42] Not starting server. Too many crashes.
+[Info  - 12:04:46.142] Starting TS Server 
+[Info  - 12:04:46.142] Not starting server. Too many crashes.
+[Info  - 12:04:46.201] Starting TS Server 
+[Info  - 12:04:46.201] Not starting server. Too many crashes.
+[Info  - 12:04:46.244] Starting TS Server 
+[Info  - 12:04:46.245] Not starting server. Too many crashes.
+[Info  - 12:04:46.291] Starting TS Server 
+[Info  - 12:04:46.291] Not starting server. Too many crashes.
+[Info  - 12:04:46.392] Starting TS Server 
+[Info  - 12:04:46.392] Not starting server. Too many crashes.
+[Info  - 12:04:46.542] Starting TS Server 
+[Info  - 12:04:46.542] Not starting server. Too many crashes.
+[Info  - 12:04:47.230] Starting TS Server 
+[Info  - 12:04:47.230] Not starting server. Too many crashes.
+[Info  - 12:06:03.120] Starting TS Server 
+[Info  - 12:06:03.120] Not starting server. Too many crashes.
+[Info  - 12:06:03.420] Starting TS Server 
+[Info  - 12:06:03.420] Not starting server. Too many crashes.
+[Info  - 12:06:03.987] Starting TS Server 
+[Info  - 12:06:03.987] Not starting server. Too many crashes.
+[Info  - 12:06:06.667] Starting TS Server 
+[Info  - 12:06:06.667] Not starting server. Too many crashes.
+[Info  - 12:06:06.755] Starting TS Server 
+[Info  - 12:06:06.755] Not starting server. Too many crashes.
+[Info  - 12:06:06.821] Starting TS Server 
+[Info  - 12:06:06.821] Not starting server. Too many crashes.
+[Info  - 12:06:06.908] Starting TS Server 
+[Info  - 12:06:06.908] Not starting server. Too many crashes.
+[Info  - 12:06:06.969] Starting TS Server 
+[Info  - 12:06:06.969] Not starting server. Too many crashes.
+[Info  - 12:06:07.7] Starting TS Server 
+[Info  - 12:06:07.7] Not starting server. Too many crashes.
+[Info  - 12:06:07.158] Starting TS Server 
+[Info  - 12:06:07.158] Not starting server. Too many crashes.
+[Info  - 12:06:08.34] Starting TS Server 
+[Info  - 12:06:08.34] Not starting server. Too many crashes.
+[Info  - 12:06:08.228] Starting TS Server 
+[Info  - 12:06:08.228] Not starting server. Too many crashes.
+[Info  - 12:06:08.567] Starting TS Server 
+[Info  - 12:06:08.567] Not starting server. Too many crashes.
+[Info  - 12:06:08.577] Starting TS Server 
+[Info  - 12:06:08.577] Not starting server. Too many crashes.
+[Info  - 12:06:08.651] Starting TS Server 
+[Info  - 12:06:08.651] Not starting server. Too many crashes.
+[Info  - 12:06:08.704] Starting TS Server 
+[Info  - 12:06:08.704] Not starting server. Too many crashes.
+[Info  - 12:06:08.789] Starting TS Server 
+[Info  - 12:06:08.789] Not starting server. Too many crashes.
+[Info  - 12:06:08.889] Starting TS Server 
+[Info  - 12:06:08.889] Not starting server. Too many crashes.
+[Info  - 12:06:08.920] Starting TS Server 
+[Info  - 12:06:08.920] Not starting server. Too many crashes.
+[Info  - 12:06:09.2] Starting TS Server 
+[Info  - 12:06:09.2] Not starting server. Too many crashes.
+[Info  - 12:06:09.101] Starting TS Server 
+[Info  - 12:06:09.101] Not starting server. Too many crashes.
+[Info  - 12:06:09.252] Starting TS Server 
+[Info  - 12:06:09.252] Not starting server. Too many crashes.
+[Info  - 12:06:09.833] Starting TS Server 
+[Info  - 12:06:09.833] Not starting server. Too many crashes.
+[Info  - 12:06:09.835] Starting TS Server 
+[Info  - 12:06:09.835] Not starting server. Too many crashes.
+[Info  - 12:06:09.902] Starting TS Server 
+[Info  - 12:06:09.902] Not starting server. Too many crashes.
+[Info  - 12:06:09.983] Starting TS Server 
+[Info  - 12:06:09.983] Not starting server. Too many crashes.
+[Info  - 12:06:10.67] Starting TS Server 
+[Info  - 12:06:10.67] Not starting server. Too many crashes.
+[Info  - 12:06:10.167] Starting TS Server 
+[Info  - 12:06:10.167] Not starting server. Too many crashes.
+[Info  - 12:06:10.317] Starting TS Server 
+[Info  - 12:06:10.317] Not starting server. Too many crashes.
+[Info  - 12:06:10.695] Starting TS Server 
+[Info  - 12:06:10.695] Not starting server. Too many crashes.
+[Info  - 12:06:11.973] Starting TS Server 
+[Info  - 12:06:11.973] Not starting server. Too many crashes.
+[Info  - 12:06:12.56] Starting TS Server 
+[Info  - 12:06:12.56] Not starting server. Too many crashes.
+[Info  - 12:06:12.155] Starting TS Server 
+[Info  - 12:06:12.155] Not starting server. Too many crashes.
+[Info  - 12:06:12.304] Starting TS Server 
+[Info  - 12:06:12.304] Not starting server. Too many crashes.
+[Info  - 12:06:12.469] Starting TS Server 
+[Info  - 12:06:12.469] Not starting server. Too many crashes.
+[Info  - 12:07:49.686] Starting TS Server 
+[Info  - 12:07:49.686] Not starting server. Too many crashes.
+[Info  - 12:07:49.718] Starting TS Server 
+[Info  - 12:07:49.718] Not starting server. Too many crashes.
+[Info  - 12:07:49.808] Starting TS Server 
+[Info  - 12:07:49.808] Not starting server. Too many crashes.
+[Info  - 12:07:49.985] Starting TS Server 
+[Info  - 12:07:49.985] Not starting server. Too many crashes.
+[Info  - 12:07:50.449] Starting TS Server 
+[Info  - 12:07:50.449] Not starting server. Too many crashes.
+[Info  - 12:07:50.522] Starting TS Server 
+[Info  - 12:07:50.522] Not starting server. Too many crashes.
+[Info  - 12:07:50.618] Starting TS Server 
+[Info  - 12:07:50.618] Not starting server. Too many crashes.
+[Info  - 12:07:50.749] Starting TS Server 
+[Info  - 12:07:50.749] Not starting server. Too many crashes.
+[Info  - 12:21:07.958] Starting TS Server 
+[Info  - 12:21:07.958] Not starting server. Too many crashes.
+[Info  - 12:21:08.17] Starting TS Server 
+[Info  - 12:21:08.17] Not starting server. Too many crashes.
+[Info  - 12:21:08.111] Starting TS Server 
+[Info  - 12:21:08.111] Not starting server. Too many crashes.
+[Info  - 12:21:08.257] Starting TS Server 
+[Info  - 12:21:08.257] Not starting server. Too many crashes.
+[Info  - 12:21:15.763] Starting TS Server 
+[Info  - 12:21:15.763] Not starting server. Too many crashes.
+[Info  - 12:21:17.362] Starting TS Server 
+[Info  - 12:21:17.362] Not starting server. Too many crashes.
+[Info  - 12:21:18.10] Starting TS Server 
+[Info  - 12:21:18.10] Not starting server. Too many crashes.
+[Info  - 12:21:19.12] Starting TS Server 
+[Info  - 12:21:19.12] Not starting server. Too many crashes.
+[Info  - 12:21:21.161] Starting TS Server 
+[Info  - 12:21:21.161] Not starting server. Too many crashes.
+[Info  - 12:21:21.237] Starting TS Server 
+[Info  - 12:21:21.237] Not starting server. Too many crashes.
+[Info  - 12:21:21.339] Starting TS Server 
+[Info  - 12:21:21.339] Not starting server. Too many crashes.
+[Info  - 12:21:21.461] Starting TS Server 
+[Info  - 12:21:21.461] Not starting server. Too many crashes.
+[Info  - 12:21:21.971] Starting TS Server 
+[Info  - 12:21:21.971] Not starting server. Too many crashes.
+[Info  - 12:21:22.583] Starting TS Server 
+[Info  - 12:21:22.583] Not starting server. Too many crashes.
+[Info  - 12:21:24.125] Starting TS Server 
+[Info  - 12:21:24.125] Not starting server. Too many crashes.
+[Info  - 12:21:25.0] Starting TS Server 
+[Info  - 12:21:25.0] Not starting server. Too many crashes.
+[Info  - 12:21:25.301] Starting TS Server 
+[Info  - 12:21:25.301] Not starting server. Too many crashes.
+[Info  - 12:21:27.50] Starting TS Server 
+[Info  - 12:21:27.51] Not starting server. Too many crashes.
+[Info  - 12:21:28.162] Starting TS Server 
+[Info  - 12:21:28.162] Not starting server. Too many crashes.
+[Info  - 12:21:28.231] Starting TS Server 
+[Info  - 12:21:28.231] Not starting server. Too many crashes.
+[Info  - 12:21:28.328] Starting TS Server 
+[Info  - 12:21:28.328] Not starting server. Too many crashes.
+[Info  - 12:21:28.461] Starting TS Server 
+[Info  - 12:21:28.461] Not starting server. Too many crashes.
+[Info  - 13:20:49.474] Starting TS Server 
+[Info  - 13:20:49.474] Not starting server. Too many crashes.
+[Info  - 13:20:49.553] Starting TS Server 
+[Info  - 13:20:49.553] Not starting server. Too many crashes.
+[Info  - 13:20:49.686] Starting TS Server 
+[Info  - 13:20:49.686] Not starting server. Too many crashes.
+[Info  - 13:20:53.99] Starting TS Server 
+[Info  - 13:20:53.99] Not starting server. Too many crashes.
+[Info  - 13:20:53.172] Starting TS Server 
+[Info  - 13:20:53.172] Not starting server. Too many crashes.
+[Info  - 13:20:53.271] Starting TS Server 
+[Info  - 13:20:53.271] Not starting server. Too many crashes.
+[Info  - 13:20:53.399] Starting TS Server 
+[Info  - 13:20:53.399] Not starting server. Too many crashes.
+[Info  - 13:20:54.837] Starting TS Server 
+[Info  - 13:20:54.837] Not starting server. Too many crashes.
+[Info  - 13:20:55.900] Starting TS Server 
+[Info  - 13:20:55.900] Not starting server. Too many crashes.
+[Info  - 13:20:57.976] Starting TS Server 
+[Info  - 13:20:57.976] Not starting server. Too many crashes.
+[Info  - 13:20:58.276] Starting TS Server 
+[Info  - 13:20:58.276] Not starting server. Too many crashes.
+[Info  - 13:20:58.777] Starting TS Server 
+[Info  - 13:20:58.777] Not starting server. Too many crashes.
+[Info  - 13:21:03.1] Starting TS Server 
+[Info  - 13:21:03.1] Not starting server. Too many crashes.
+[Info  - 13:21:03.984] Starting TS Server 
+[Info  - 13:21:03.984] Not starting server. Too many crashes.
+[Info  - 13:21:07.274] Starting TS Server 
+[Info  - 13:21:07.274] Not starting server. Too many crashes.
+[Info  - 13:21:07.348] Starting TS Server 
+[Info  - 13:21:07.348] Not starting server. Too many crashes.
+[Info  - 13:21:07.448] Starting TS Server 
+[Info  - 13:21:07.448] Not starting server. Too many crashes.
+[Info  - 13:21:07.573] Starting TS Server 
+[Info  - 13:21:07.573] Not starting server. Too many crashes.
+[Info  - 13:21:12.908] Starting TS Server 
+[Info  - 13:21:12.908] Not starting server. Too many crashes.
+[Info  - 13:21:13.522] Starting TS Server 
+[Info  - 13:21:13.522] Not starting server. Too many crashes.
+[Info  - 13:21:13.762] Starting TS Server 
+[Info  - 13:21:13.762] Not starting server. Too many crashes.
+[Info  - 13:21:14.72] Starting TS Server 
+[Info  - 13:21:14.72] Not starting server. Too many crashes.
+[Info  - 13:21:14.168] Starting TS Server 
+[Info  - 13:21:14.168] Not starting server. Too many crashes.
+[Info  - 13:21:14.542] Starting TS Server 
+[Info  - 13:21:14.542] Not starting server. Too many crashes.
+[Info  - 13:21:15.600] Starting TS Server 
+[Info  - 13:21:15.600] Not starting server. Too many crashes.
+[Info  - 13:21:16.379] Starting TS Server 
+[Info  - 13:21:16.379] Not starting server. Too many crashes.
+[Info  - 13:22:40.137] Starting TS Server 
+[Info  - 13:22:40.137] Not starting server. Too many crashes.
+[Info  - 13:25:05.839] Starting TS Server 
+[Info  - 13:25:05.839] Not starting server. Too many crashes.
+[Info  - 13:27:03.212] Starting TS Server 
+[Info  - 13:27:03.212] Not starting server. Too many crashes.
+[Info  - 13:27:03.293] Starting TS Server 
+[Info  - 13:27:03.293] Not starting server. Too many crashes.
+[Info  - 13:27:03.383] Starting TS Server 
+[Info  - 13:27:03.383] Not starting server. Too many crashes.
+[Info  - 13:27:03.385] Starting TS Server 
+[Info  - 13:27:03.385] Not starting server. Too many crashes.
+[Info  - 13:27:03.467] Starting TS Server 
+[Info  - 13:27:03.467] Not starting server. Too many crashes.
+[Info  - 13:27:03.515] Starting TS Server 
+[Info  - 13:27:03.515] Not starting server. Too many crashes.
+[Info  - 13:27:03.568] Starting TS Server 
+[Info  - 13:27:03.568] Not starting server. Too many crashes.
+[Info  - 13:27:03.719] Starting TS Server 
+[Info  - 13:27:03.719] Not starting server. Too many crashes.
+[Info  - 13:27:05.14] Starting TS Server 
+[Info  - 13:27:05.14] Not starting server. Too many crashes.
+[Info  - 13:27:05.101] Starting TS Server 
+[Info  - 13:27:05.101] Not starting server. Too many crashes.
+[Info  - 13:27:05.124] Starting TS Server 
+[Info  - 13:27:05.124] Not starting server. Too many crashes.
+[Info  - 13:27:05.200] Starting TS Server 
+[Info  - 13:27:05.200] Not starting server. Too many crashes.
+[Info  - 13:27:05.350] Starting TS Server 
+[Info  - 13:27:05.350] Not starting server. Too many crashes.
+[Info  - 13:27:06.565] Starting TS Server 
+[Info  - 13:27:06.565] Not starting server. Too many crashes.
+[Info  - 13:27:30.989] Starting TS Server 
+[Info  - 13:27:30.989] Not starting server. Too many crashes.
+[Info  - 13:27:32.175] Starting TS Server 
+[Info  - 13:27:32.175] Not starting server. Too many crashes.
+[Info  - 13:27:32.253] Starting TS Server 
+[Info  - 13:27:32.253] Not starting server. Too many crashes.
+[Info  - 13:27:32.353] Starting TS Server 
+[Info  - 13:27:32.353] Not starting server. Too many crashes.
+[Info  - 13:27:32.407] Starting TS Server 
+[Info  - 13:27:32.407] Not starting server. Too many crashes.
+[Info  - 13:27:32.477] Starting TS Server 
+[Info  - 13:27:32.477] Not starting server. Too many crashes.
+[Info  - 13:27:32.493] Starting TS Server 
+[Info  - 13:27:32.493] Not starting server. Too many crashes.
+[Info  - 13:27:32.599] Starting TS Server 
+[Info  - 13:27:32.599] Not starting server. Too many crashes.
+[Info  - 13:27:32.684] Starting TS Server 
+[Info  - 13:27:32.684] Not starting server. Too many crashes.
+[Info  - 13:27:32.718] Starting TS Server 
+[Info  - 13:27:32.719] Not starting server. Too many crashes.
+[Info  - 13:27:32.802] Starting TS Server 
+[Info  - 13:27:32.802] Not starting server. Too many crashes.
+[Info  - 13:27:32.864] Starting TS Server 
+[Info  - 13:27:32.864] Not starting server. Too many crashes.
+[Info  - 13:27:32.949] Starting TS Server 
+[Info  - 13:27:32.949] Not starting server. Too many crashes.
+[Info  - 13:27:33.51] Starting TS Server 
+[Info  - 13:27:33.51] Not starting server. Too many crashes.
+[Info  - 13:27:33.200] Starting TS Server 
+[Info  - 13:27:33.200] Not starting server. Too many crashes.
+[Info  - 13:27:33.623] Starting TS Server 
+[Info  - 13:27:33.623] Not starting server. Too many crashes.
+[Info  - 13:36:43.429] Starting TS Server 
+[Info  - 13:36:43.429] Not starting server. Too many crashes.
+[Info  - 13:36:43.497] Starting TS Server 
+[Info  - 13:36:43.497] Not starting server. Too many crashes.
+[Info  - 13:36:43.598] Starting TS Server 
+[Info  - 13:36:43.598] Not starting server. Too many crashes.
+[Info  - 13:36:43.729] Starting TS Server 
+[Info  - 13:36:43.729] Not starting server. Too many crashes.
+[Info  - 14:03:33.614] Starting TS Server 
+[Info  - 14:03:33.614] Not starting server. Too many crashes.
+[Info  - 14:03:33.672] Starting TS Server 
+[Info  - 14:03:33.672] Not starting server. Too many crashes.
+[Info  - 14:03:33.771] Starting TS Server 
+[Info  - 14:03:33.771] Not starting server. Too many crashes.
+[Info  - 14:03:33.912] Starting TS Server 
+[Info  - 14:03:33.912] Not starting server. Too many crashes.
+[Info  - 14:03:35.770] Starting TS Server 
+[Info  - 14:03:35.770] Not starting server. Too many crashes.
+[Info  - 14:03:35.848] Starting TS Server 
+[Info  - 14:03:35.848] Not starting server. Too many crashes.
+[Info  - 14:03:35.946] Starting TS Server 
+[Info  - 14:03:35.946] Not starting server. Too many crashes.
+[Info  - 14:03:36.72] Starting TS Server 
+[Info  - 14:03:36.72] Not starting server. Too many crashes.
+[Info  - 14:03:36.96] Starting TS Server 
+[Info  - 14:03:36.96] Not starting server. Too many crashes.
+[Info  - 14:03:37.591] Starting TS Server 
+[Info  - 14:03:37.591] Not starting server. Too many crashes.
+[Info  - 14:03:38.298] Starting TS Server 
+[Info  - 14:03:38.298] Not starting server. Too many crashes.
+[Info  - 14:03:38.384] Starting TS Server 
+[Info  - 14:03:38.384] Not starting server. Too many crashes.
+[Info  - 14:03:38.482] Starting TS Server 
+[Info  - 14:03:38.482] Not starting server. Too many crashes.
+[Info  - 14:03:38.632] Starting TS Server 
+[Info  - 14:03:38.632] Not starting server. Too many crashes.
+[Info  - 14:03:39.717] Starting TS Server 
+[Info  - 14:03:39.717] Not starting server. Too many crashes.
+[Info  - 14:06:05.663] Starting TS Server 
+[Info  - 14:06:05.663] Not starting server. Too many crashes.
+[Info  - 14:06:05.731] Starting TS Server 
+[Info  - 14:06:05.731] Not starting server. Too many crashes.
+[Info  - 14:06:05.827] Starting TS Server 
+[Info  - 14:06:05.827] Not starting server. Too many crashes.
+[Info  - 14:06:05.963] Starting TS Server 
+[Info  - 14:06:05.963] Not starting server. Too many crashes.
+[Info  - 14:06:09.717] Starting TS Server 
+[Info  - 14:06:09.717] Not starting server. Too many crashes.
+[Info  - 14:06:09.782] Starting TS Server 
+[Info  - 14:06:09.782] Not starting server. Too many crashes.
+[Info  - 14:06:09.883] Starting TS Server 
+[Info  - 14:06:09.883] Not starting server. Too many crashes.
+[Info  - 14:06:10.16] Starting TS Server 
+[Info  - 14:06:10.16] Not starting server. Too many crashes.
+[Info  - 14:06:11.258] Starting TS Server 
+[Info  - 14:06:11.258] Not starting server. Too many crashes.
+[Info  - 14:06:11.341] Starting TS Server 
+[Info  - 14:06:11.341] Not starting server. Too many crashes.
+[Info  - 14:06:11.432] Starting TS Server 
+[Info  - 14:06:11.432] Not starting server. Too many crashes.
+[Info  - 14:06:11.511] Starting TS Server 
+[Info  - 14:06:11.511] Not starting server. Too many crashes.
+[Info  - 14:06:11.560] Starting TS Server 
+[Info  - 14:06:11.560] Not starting server. Too many crashes.
+[Info  - 14:06:11.609] Starting TS Server 
+[Info  - 14:06:11.609] Not starting server. Too many crashes.
+[Info  - 14:06:11.759] Starting TS Server 
+[Info  - 14:06:11.759] Not starting server. Too many crashes.
+[Info  - 14:06:12.553] Starting TS Server 
+[Info  - 14:06:12.553] Not starting server. Too many crashes.
+[Info  - 14:06:13.204] Starting TS Server 
+[Info  - 14:06:13.204] Not starting server. Too many crashes.
+[Info  - 14:06:22.604] Starting TS Server 
+[Info  - 14:06:22.604] Not starting server. Too many crashes.
+[Info  - 14:06:22.701] Starting TS Server 
+[Info  - 14:06:22.701] Not starting server. Too many crashes.
+[Info  - 14:06:22.802] Starting TS Server 
+[Info  - 14:06:22.802] Not starting server. Too many crashes.
+[Info  - 14:06:22.906] Starting TS Server 
+[Info  - 14:06:22.906] Not starting server. Too many crashes.
+[Info  - 14:06:22.951] Starting TS Server 
+[Info  - 14:06:22.951] Not starting server. Too many crashes.
+[Info  - 14:06:24.236] Starting TS Server 
+[Info  - 14:06:24.236] Not starting server. Too many crashes.
+[Info  - 14:06:24.316] Starting TS Server 
+[Info  - 14:06:24.316] Not starting server. Too many crashes.
+[Info  - 14:06:24.412] Starting TS Server 
+[Info  - 14:06:24.412] Not starting server. Too many crashes.
+[Info  - 14:06:24.562] Starting TS Server 
+[Info  - 14:06:24.562] Not starting server. Too many crashes.
+[Info  - 14:06:24.701] Starting TS Server 
+[Info  - 14:06:24.701] Not starting server. Too many crashes.
+[Info  - 18:00:28.49] Starting TS Server 
+[Info  - 18:00:28.49] Not starting server. Too many crashes.
+[Info  - 01:18:28.155] Starting TS Server 
+[Info  - 01:18:28.155] Not starting server. Too many crashes.
+[Info  - 01:18:28.167] Starting TS Server 
+[Info  - 01:18:28.167] Not starting server. Too many crashes.
+[Info  - 01:18:28.289] Starting TS Server 
+[Info  - 01:18:28.289] Not starting server. Too many crashes.
+[Info  - 01:18:28.337] Starting TS Server 
+[Info  - 01:18:28.337] Not starting server. Too many crashes.
+[Info  - 01:18:28.466] Starting TS Server 
+[Info  - 01:18:28.466] Not starting server. Too many crashes.
+[Info  - 07:58:46.799] Starting TS Server 
+[Info  - 07:58:46.799] Not starting server. Too many crashes.
+[Info  - 07:58:46.893] Starting TS Server 
+[Info  - 07:58:46.893] Not starting server. Too many crashes.
+[Info  - 07:58:46.973] Starting TS Server 
+[Info  - 07:58:46.973] Not starting server. Too many crashes.
+[Info  - 07:58:47.97] Starting TS Server 
+[Info  - 07:58:47.97] Not starting server. Too many crashes.
+[Info  - 08:17:00.50] Starting TS Server 
+[Info  - 08:17:00.50] Not starting server. Too many crashes.
+[Info  - 08:17:00.116] Starting TS Server 
+[Info  - 08:17:00.116] Not starting server. Too many crashes.
+[Info  - 08:17:00.148] Starting TS Server 
+[Info  - 08:17:00.148] Not starting server. Too many crashes.
+[Info  - 08:17:00.350] Starting TS Server 
+[Info  - 08:17:00.350] Not starting server. Too many crashes.
+[Info  - 08:17:03.124] Starting TS Server 
+[Info  - 08:17:03.124] Not starting server. Too many crashes.
+[Info  - 08:17:03.183] Starting TS Server 
+[Info  - 08:17:03.183] Not starting server. Too many crashes.
+[Info  - 08:17:03.277] Starting TS Server 
+[Info  - 08:17:03.277] Not starting server. Too many crashes.
+[Info  - 08:17:03.426] Starting TS Server 
+[Info  - 08:17:03.426] Not starting server. Too many crashes.
+[Info  - 08:17:03.428] Starting TS Server 
+[Info  - 08:17:03.428] Not starting server. Too many crashes.
+[Info  - 08:17:03.468] Starting TS Server 
+[Info  - 08:17:03.468] Not starting server. Too many crashes.
+[Info  - 08:17:03.492] Starting TS Server 
+[Info  - 08:17:03.492] Not starting server. Too many crashes.
+[Info  - 08:17:03.540] Starting TS Server 
+[Info  - 08:17:03.540] Not starting server. Too many crashes.
+[Info  - 08:17:03.653] Starting TS Server 
+[Info  - 08:17:03.653] Not starting server. Too many crashes.
+[Info  - 08:17:03.723] Starting TS Server 
+[Info  - 08:17:03.723] Not starting server. Too many crashes.
+[Info  - 08:17:03.823] Starting TS Server 
+[Info  - 08:17:03.823] Not starting server. Too many crashes.
+[Info  - 08:17:03.859] Starting TS Server 
+[Info  - 08:17:03.859] Not starting server. Too many crashes.
+[Info  - 08:17:03.954] Starting TS Server 
+[Info  - 08:17:03.954] Not starting server. Too many crashes.
+[Info  - 08:17:04.20] Starting TS Server 
+[Info  - 08:17:04.20] Not starting server. Too many crashes.
+[Info  - 08:17:04.91] Starting TS Server 
+[Info  - 08:17:04.91] Not starting server. Too many crashes.
+[Info  - 08:17:04.202] Starting TS Server 
+[Info  - 08:17:04.203] Not starting server. Too many crashes.
+[Info  - 08:17:04.269] Starting TS Server 
+[Info  - 08:17:04.269] Not starting server. Too many crashes.
+[Info  - 08:17:04.354] Starting TS Server 
+[Info  - 08:17:04.354] Not starting server. Too many crashes.
+[Info  - 08:17:04.441] Starting TS Server 
+[Info  - 08:17:04.441] Not starting server. Too many crashes.
+[Info  - 08:17:04.443] Starting TS Server 
+[Info  - 08:17:04.443] Not starting server. Too many crashes.
+[Info  - 08:17:04.522] Starting TS Server 
+[Info  - 08:17:04.522] Not starting server. Too many crashes.
+[Info  - 08:17:04.569] Starting TS Server 
+[Info  - 08:17:04.569] Not starting server. Too many crashes.
+[Info  - 08:17:04.570] Starting TS Server 
+[Info  - 08:17:04.571] Not starting server. Too many crashes.
+[Info  - 08:17:04.653] Starting TS Server 
+[Info  - 08:17:04.653] Not starting server. Too many crashes.
+[Info  - 08:17:04.752] Starting TS Server 
+[Info  - 08:17:04.752] Not starting server. Too many crashes.
+[Info  - 08:17:04.770] Starting TS Server 
+[Info  - 08:17:04.770] Not starting server. Too many crashes.
+[Info  - 08:17:04.788] Starting TS Server 
+[Info  - 08:17:04.788] Not starting server. Too many crashes.
+[Info  - 08:17:04.866] Starting TS Server 
+[Info  - 08:17:04.866] Not starting server. Too many crashes.
+[Info  - 08:17:04.959] Starting TS Server 
+[Info  - 08:17:04.959] Not starting server. Too many crashes.
+[Info  - 08:17:04.962] Starting TS Server 
+[Info  - 08:17:04.962] Not starting server. Too many crashes.
+[Info  - 08:17:05.2] Starting TS Server 
+[Info  - 08:17:05.2] Not starting server. Too many crashes.
+[Info  - 08:17:05.6] Starting TS Server 
+[Info  - 08:17:05.6] Not starting server. Too many crashes.
+[Info  - 08:17:05.87] Starting TS Server 
+[Info  - 08:17:05.87] Not starting server. Too many crashes.
+[Info  - 08:17:05.205] Starting TS Server 
+[Info  - 08:17:05.205] Not starting server. Too many crashes.
+[Info  - 08:17:05.209] Starting TS Server 
+[Info  - 08:17:05.209] Not starting server. Too many crashes.
+[Info  - 08:17:05.288] Starting TS Server 
+[Info  - 08:17:05.288] Not starting server. Too many crashes.
+[Info  - 08:17:05.354] Starting TS Server 
+[Info  - 08:17:05.354] Not starting server. Too many crashes.
+[Info  - 08:17:05.436] Starting TS Server 
+[Info  - 08:17:05.436] Not starting server. Too many crashes.
+[Info  - 08:17:05.536] Starting TS Server 
+[Info  - 08:17:05.536] Not starting server. Too many crashes.
+[Info  - 08:17:05.686] Starting TS Server 
+[Info  - 08:17:05.686] Not starting server. Too many crashes.
+[Info  - 08:17:06.213] Starting TS Server 
+[Info  - 08:17:06.213] Not starting server. Too many crashes.
+[Info  - 08:17:06.223] Starting TS Server 
+[Info  - 08:17:06.223] Not starting server. Too many crashes.
+[Info  - 08:17:06.297] Starting TS Server 
+[Info  - 08:17:06.298] Not starting server. Too many crashes.
+[Info  - 08:17:06.419] Starting TS Server 
+[Info  - 08:17:06.419] Not starting server. Too many crashes.
+[Info  - 08:17:06.485] Starting TS Server 
+[Info  - 08:17:06.486] Not starting server. Too many crashes.
+[Info  - 08:17:06.564] Starting TS Server 
+[Info  - 08:17:06.564] Not starting server. Too many crashes.
+[Info  - 08:17:06.619] Starting TS Server 
+[Info  - 08:17:06.619] Not starting server. Too many crashes.
+[Info  - 08:17:06.748] Starting TS Server 
+[Info  - 08:17:06.748] Not starting server. Too many crashes.
+[Info  - 08:17:06.796] Starting TS Server 
+[Info  - 08:17:06.796] Not starting server. Too many crashes.
+[Info  - 08:17:06.830] Starting TS Server 
+[Info  - 08:17:06.830] Not starting server. Too many crashes.
+[Info  - 08:17:06.921] Starting TS Server 
+[Info  - 08:17:06.921] Not starting server. Too many crashes.
+[Info  - 08:17:06.985] Starting TS Server 
+[Info  - 08:17:06.986] Not starting server. Too many crashes.
+[Info  - 08:17:06.987] Starting TS Server 
+[Info  - 08:17:06.987] Not starting server. Too many crashes.
+[Info  - 08:17:07.67] Starting TS Server 
+[Info  - 08:17:07.67] Not starting server. Too many crashes.
+[Info  - 08:17:07.167] Starting TS Server 
+[Info  - 08:17:07.167] Not starting server. Too many crashes.
+[Info  - 08:17:07.318] Starting TS Server 
+[Info  - 08:17:07.318] Not starting server. Too many crashes.
+[Info  - 08:17:07.345] Starting TS Server 
+[Info  - 08:17:07.345] Not starting server. Too many crashes.
+[Info  - 08:17:07.365] Starting TS Server 
+[Info  - 08:17:07.365] Not starting server. Too many crashes.
+[Info  - 08:17:07.441] Starting TS Server 
+[Info  - 08:17:07.441] Not starting server. Too many crashes.
+[Info  - 08:17:07.490] Starting TS Server 
+[Info  - 08:17:07.490] Not starting server. Too many crashes.
+[Info  - 08:17:07.562] Starting TS Server 
+[Info  - 08:17:07.562] Not starting server. Too many crashes.
+[Info  - 08:17:07.661] Starting TS Server 
+[Info  - 08:17:07.661] Not starting server. Too many crashes.
+[Info  - 08:17:07.728] Starting TS Server 
+[Info  - 08:17:07.728] Not starting server. Too many crashes.
+[Info  - 08:17:07.797] Starting TS Server 
+[Info  - 08:17:07.797] Not starting server. Too many crashes.
+[Info  - 08:17:07.891] Starting TS Server 
+[Info  - 08:17:07.891] Not starting server. Too many crashes.
+[Info  - 08:17:07.991] Starting TS Server 
+[Info  - 08:17:07.991] Not starting server. Too many crashes.
+[Info  - 08:17:08.143] Starting TS Server 
+[Info  - 08:17:08.143] Not starting server. Too many crashes.
+[Info  - 08:17:08.370] Starting TS Server 
+[Info  - 08:17:08.370] Not starting server. Too many crashes.
+[Info  - 08:17:08.466] Starting TS Server 
+[Info  - 08:17:08.466] Not starting server. Too many crashes.
+[Info  - 08:17:08.566] Starting TS Server 
+[Info  - 08:17:08.566] Not starting server. Too many crashes.
+[Info  - 08:17:08.598] Starting TS Server 
+[Info  - 08:17:08.598] Not starting server. Too many crashes.
+[Info  - 08:17:08.681] Starting TS Server 
+[Info  - 08:17:08.681] Not starting server. Too many crashes.
+[Info  - 08:17:08.781] Starting TS Server 
+[Info  - 08:17:08.781] Not starting server. Too many crashes.
+[Info  - 08:17:08.827] Starting TS Server 
+[Info  - 08:17:08.827] Not starting server. Too many crashes.
+[Info  - 08:17:08.835] Starting TS Server 
+[Info  - 08:17:08.835] Not starting server. Too many crashes.
+[Info  - 08:17:08.911] Starting TS Server 
+[Info  - 08:17:08.911] Not starting server. Too many crashes.
+[Info  - 08:17:08.960] Starting TS Server 
+[Info  - 08:17:08.960] Not starting server. Too many crashes.
+[Info  - 08:17:09.53] Starting TS Server 
+[Info  - 08:17:09.53] Not starting server. Too many crashes.
+[Info  - 08:17:09.153] Starting TS Server 
+[Info  - 08:17:09.153] Not starting server. Too many crashes.
+[Info  - 08:17:09.175] Starting TS Server 
+[Info  - 08:17:09.175] Not starting server. Too many crashes.
+[Info  - 08:17:09.193] Starting TS Server 
+[Info  - 08:17:09.193] Not starting server. Too many crashes.
+[Info  - 08:17:09.262] Starting TS Server 
+[Info  - 08:17:09.262] Not starting server. Too many crashes.
+[Info  - 08:17:09.362] Starting TS Server 
+[Info  - 08:17:09.362] Not starting server. Too many crashes.
+[Info  - 08:17:09.438] Starting TS Server 
+[Info  - 08:17:09.438] Not starting server. Too many crashes.
+[Info  - 08:17:09.547] Starting TS Server 
+[Info  - 08:17:09.547] Not starting server. Too many crashes.
+[Info  - 08:17:09.619] Starting TS Server 
+[Info  - 08:17:09.619] Not starting server. Too many crashes.
+[Info  - 08:17:09.718] Starting TS Server 
+[Info  - 08:17:09.718] Not starting server. Too many crashes.
+[Info  - 08:17:09.869] Starting TS Server 
+[Info  - 08:17:09.869] Not starting server. Too many crashes.
+[Info  - 08:17:11.301] Starting TS Server 
+[Info  - 08:17:11.301] Not starting server. Too many crashes.
+[Info  - 08:17:11.386] Starting TS Server 
+[Info  - 08:17:11.386] Not starting server. Too many crashes.
+[Info  - 08:17:11.486] Starting TS Server 
+[Info  - 08:17:11.486] Not starting server. Too many crashes.
+[Info  - 08:17:11.636] Starting TS Server 
+[Info  - 08:17:11.636] Not starting server. Too many crashes.
+[Info  - 08:17:12.176] Starting TS Server 
+[Info  - 08:17:12.176] Not starting server. Too many crashes.
+[Info  - 08:19:22.827] Starting TS Server 
+[Info  - 08:19:22.827] Not starting server. Too many crashes.
+[Info  - 08:19:23.22] Starting TS Server 
+[Info  - 08:19:23.22] Not starting server. Too many crashes.
+[Info  - 08:19:23.960] Starting TS Server 
+[Info  - 08:19:23.960] Not starting server. Too many crashes.
+[Info  - 08:19:23.980] Starting TS Server 
+[Info  - 08:19:23.980] Not starting server. Too many crashes.
+[Info  - 08:19:24.29] Starting TS Server 
+[Info  - 08:19:24.29] Not starting server. Too many crashes.
+[Info  - 08:19:24.126] Starting TS Server 
+[Info  - 08:19:24.126] Not starting server. Too many crashes.
+[Info  - 08:19:24.177] Starting TS Server 
+[Info  - 08:19:24.177] Not starting server. Too many crashes.
+[Info  - 08:19:24.262] Starting TS Server 
+[Info  - 08:19:24.262] Not starting server. Too many crashes.
+[Info  - 08:19:24.263] Starting TS Server 
+[Info  - 08:19:24.263] Not starting server. Too many crashes.
+[Info  - 08:19:24.331] Starting TS Server 
+[Info  - 08:19:24.332] Not starting server. Too many crashes.
+[Info  - 08:19:24.431] Starting TS Server 
+[Info  - 08:19:24.431] Not starting server. Too many crashes.
+[Info  - 08:19:24.512] Starting TS Server 
+[Info  - 08:19:24.512] Not starting server. Too many crashes.
+[Info  - 08:19:24.601] Starting TS Server 
+[Info  - 08:19:24.601] Not starting server. Too many crashes.
+[Info  - 08:19:24.717] Starting TS Server 
+[Info  - 08:19:24.717] Not starting server. Too many crashes.
+[Info  - 08:19:24.722] Starting TS Server 
+[Info  - 08:19:24.722] Not starting server. Too many crashes.
+[Info  - 08:19:24.797] Starting TS Server 
+[Info  - 08:19:24.797] Not starting server. Too many crashes.
+[Info  - 08:19:24.883] Starting TS Server 
+[Info  - 08:19:24.883] Not starting server. Too many crashes.
+[Info  - 08:19:24.888] Starting TS Server 
+[Info  - 08:19:24.888] Not starting server. Too many crashes.
+[Info  - 08:19:24.975] Starting TS Server 
+[Info  - 08:19:24.975] Not starting server. Too many crashes.
+[Info  - 08:19:24.981] Starting TS Server 
+[Info  - 08:19:24.981] Not starting server. Too many crashes.
+[Info  - 08:19:25.28] Starting TS Server 
+[Info  - 08:19:25.28] Not starting server. Too many crashes.
+[Info  - 08:19:25.32] Starting TS Server 
+[Info  - 08:19:25.33] Not starting server. Too many crashes.
+[Info  - 08:19:25.107] Starting TS Server 
+[Info  - 08:19:25.107] Not starting server. Too many crashes.
+[Info  - 08:19:25.154] Starting TS Server 
+[Info  - 08:19:25.154] Not starting server. Too many crashes.
+[Info  - 08:19:25.160] Starting TS Server 
+[Info  - 08:19:25.160] Not starting server. Too many crashes.
+[Info  - 08:19:25.238] Starting TS Server 
+[Info  - 08:19:25.238] Not starting server. Too many crashes.
+[Info  - 08:19:25.338] Starting TS Server 
+[Info  - 08:19:25.338] Not starting server. Too many crashes.
+[Info  - 08:19:25.488] Starting TS Server 
+[Info  - 08:19:25.488] Not starting server. Too many crashes.
+[Info  - 08:19:25.853] Starting TS Server 
+[Info  - 08:19:25.853] Not starting server. Too many crashes.
+[Info  - 08:24:32.715] Starting TS Server 
+[Info  - 08:24:32.715] Not starting server. Too many crashes.
+[Info  - 08:24:32.808] Starting TS Server 
+[Info  - 08:24:32.808] Not starting server. Too many crashes.
+[Info  - 08:24:32.913] Starting TS Server 
+[Info  - 08:24:32.913] Not starting server. Too many crashes.
+[Info  - 08:24:33.17] Starting TS Server 
+[Info  - 08:24:33.18] Not starting server. Too many crashes.
+[Info  - 08:24:33.56] Starting TS Server 
+[Info  - 08:24:33.56] Not starting server. Too many crashes.
+[Info  - 08:24:36.111] Starting TS Server 
+[Info  - 08:24:36.111] Not starting server. Too many crashes.
+[Info  - 08:24:36.711] Starting TS Server 
+[Info  - 08:24:36.711] Not starting server. Too many crashes.
+[Info  - 08:24:36.792] Starting TS Server 
+[Info  - 08:24:36.792] Not starting server. Too many crashes.
+[Info  - 08:24:43.111] Starting TS Server 
+[Info  - 08:24:43.111] Not starting server. Too many crashes.
+[Info  - 08:24:43.116] Starting TS Server 
+[Info  - 08:24:43.116] Not starting server. Too many crashes.
+[Info  - 08:24:43.183] Starting TS Server 
+[Info  - 08:24:43.183] Not starting server. Too many crashes.
+[Info  - 08:24:43.276] Starting TS Server 
+[Info  - 08:24:43.276] Not starting server. Too many crashes.
+[Info  - 08:24:43.363] Starting TS Server 
+[Info  - 08:24:43.363] Not starting server. Too many crashes.
+[Info  - 08:24:43.463] Starting TS Server 
+[Info  - 08:24:43.463] Not starting server. Too many crashes.
+[Info  - 08:24:43.554] Starting TS Server 
+[Info  - 08:24:43.554] Not starting server. Too many crashes.
+[Info  - 08:24:43.577] Starting TS Server 
+[Info  - 08:24:43.577] Not starting server. Too many crashes.
+[Info  - 08:24:43.638] Starting TS Server 
+[Info  - 08:24:43.638] Not starting server. Too many crashes.
+[Info  - 08:24:43.738] Starting TS Server 
+[Info  - 08:24:43.738] Not starting server. Too many crashes.
+[Info  - 08:24:43.889] Starting TS Server 
+[Info  - 08:24:43.889] Not starting server. Too many crashes.
+[Info  - 08:24:43.992] Starting TS Server 
+[Info  - 08:24:43.992] Not starting server. Too many crashes.
+[Info  - 08:24:43.995] Starting TS Server 
+[Info  - 08:24:43.995] Not starting server. Too many crashes.
+[Info  - 08:24:44.74] Starting TS Server 
+[Info  - 08:24:44.74] Not starting server. Too many crashes.
+[Info  - 08:24:44.118] Starting TS Server 
+[Info  - 08:24:44.118] Not starting server. Too many crashes.
+[Info  - 08:24:44.124] Starting TS Server 
+[Info  - 08:24:44.124] Not starting server. Too many crashes.
+[Info  - 08:24:44.195] Starting TS Server 
+[Info  - 08:24:44.195] Not starting server. Too many crashes.
+[Info  - 08:24:44.295] Starting TS Server 
+[Info  - 08:24:44.295] Not starting server. Too many crashes.
+[Info  - 08:24:44.445] Starting TS Server 
+[Info  - 08:24:44.445] Not starting server. Too many crashes.
+[Info  - 08:24:44.605] Starting TS Server 
+[Info  - 08:24:44.605] Not starting server. Too many crashes.
+[Info  - 08:24:44.613] Starting TS Server 
+[Info  - 08:24:44.613] Not starting server. Too many crashes.
+[Info  - 08:24:44.686] Starting TS Server 
+[Info  - 08:24:44.686] Not starting server. Too many crashes.
+[Info  - 08:24:44.693] Starting TS Server 
+[Info  - 08:24:44.693] Not starting server. Too many crashes.
+[Info  - 08:24:44.769] Starting TS Server 
+[Info  - 08:24:44.769] Not starting server. Too many crashes.
+[Info  - 08:24:44.851] Starting TS Server 
+[Info  - 08:24:44.851] Not starting server. Too many crashes.
+[Info  - 08:24:44.854] Starting TS Server 
+[Info  - 08:24:44.854] Not starting server. Too many crashes.
+[Info  - 08:24:44.922] Starting TS Server 
+[Info  - 08:24:44.922] Not starting server. Too many crashes.
+[Info  - 08:24:44.981] Starting TS Server 
+[Info  - 08:24:44.981] Not starting server. Too many crashes.
+[Info  - 08:24:44.984] Starting TS Server 
+[Info  - 08:24:44.984] Not starting server. Too many crashes.
+[Info  - 08:24:45.54] Starting TS Server 
+[Info  - 08:24:45.54] Not starting server. Too many crashes.
+[Info  - 08:24:45.155] Starting TS Server 
+[Info  - 08:24:45.155] Not starting server. Too many crashes.
+[Info  - 08:24:45.202] Starting TS Server 
+[Info  - 08:24:45.202] Not starting server. Too many crashes.
+[Info  - 08:24:45.207] Starting TS Server 
+[Info  - 08:24:45.207] Not starting server. Too many crashes.
+[Info  - 08:24:45.284] Starting TS Server 
+[Info  - 08:24:45.284] Not starting server. Too many crashes.
+[Info  - 08:24:45.384] Starting TS Server 
+[Info  - 08:24:45.384] Not starting server. Too many crashes.
+[Info  - 08:24:45.534] Starting TS Server 
+[Info  - 08:24:45.534] Not starting server. Too many crashes.
+[Info  - 08:24:46.557] Starting TS Server 
+[Info  - 08:24:46.557] Not starting server. Too many crashes.
+[Info  - 08:24:46.858] Starting TS Server 
+[Info  - 08:24:46.858] Not starting server. Too many crashes.
+[Info  - 08:24:47.947] Starting TS Server 
+[Info  - 08:24:47.947] Not starting server. Too many crashes.
+[Info  - 08:24:48.34] Starting TS Server 
+[Info  - 08:24:48.34] Not starting server. Too many crashes.
+[Info  - 08:24:48.133] Starting TS Server 
+[Info  - 08:24:48.133] Not starting server. Too many crashes.
+[Info  - 08:24:48.174] Starting TS Server 
+[Info  - 08:24:48.174] Not starting server. Too many crashes.
+[Info  - 08:24:48.176] Starting TS Server 
+[Info  - 08:24:48.176] Not starting server. Too many crashes.
+[Info  - 08:24:48.269] Starting TS Server 
+[Info  - 08:24:48.269] Not starting server. Too many crashes.
+[Info  - 08:24:48.369] Starting TS Server 
+[Info  - 08:24:48.369] Not starting server. Too many crashes.
+[Info  - 08:24:48.520] Starting TS Server 
+[Info  - 08:24:48.520] Not starting server. Too many crashes.
+[Info  - 08:24:49.455] Starting TS Server 
+[Info  - 08:24:49.455] Not starting server. Too many crashes.
+[Info  - 08:24:49.543] Starting TS Server 
+[Info  - 08:24:49.543] Not starting server. Too many crashes.
+[Info  - 08:24:50.630] Starting TS Server 
+[Info  - 08:24:50.630] Not starting server. Too many crashes.
+[Info  - 08:24:50.720] Starting TS Server 
+[Info  - 08:24:50.720] Not starting server. Too many crashes.
+[Info  - 08:24:50.749] Starting TS Server 
+[Info  - 08:24:50.749] Not starting server. Too many crashes.
+[Info  - 08:24:50.845] Starting TS Server 
+[Info  - 08:24:50.845] Not starting server. Too many crashes.
+[Info  - 08:24:50.945] Starting TS Server 
+[Info  - 08:24:50.945] Not starting server. Too many crashes.
+[Info  - 08:24:51.118] Starting TS Server 
+[Info  - 08:24:51.118] Not starting server. Too many crashes.
+[Info  - 08:24:51.122] Starting TS Server 
+[Info  - 08:24:51.122] Not starting server. Too many crashes.
+[Info  - 08:24:51.188] Starting TS Server 
+[Info  - 08:24:51.188] Not starting server. Too many crashes.
+[Info  - 08:24:51.221] Starting TS Server 
+[Info  - 08:24:51.221] Not starting server. Too many crashes.
+[Info  - 08:24:51.288] Starting TS Server 
+[Info  - 08:24:51.288] Not starting server. Too many crashes.
+[Info  - 08:24:51.438] Starting TS Server 
+[Info  - 08:24:51.438] Not starting server. Too many crashes.
+[Info  - 08:24:53.385] Starting TS Server 
+[Info  - 08:24:53.385] Not starting server. Too many crashes.
+[Info  - 08:24:53.387] Starting TS Server 
+[Info  - 08:24:53.387] Not starting server. Too many crashes.
+[Info  - 08:24:53.480] Starting TS Server 
+[Info  - 08:24:53.480] Not starting server. Too many crashes.
+[Info  - 08:24:53.580] Starting TS Server 
+[Info  - 08:24:53.581] Not starting server. Too many crashes.
+[Info  - 08:24:53.730] Starting TS Server 
+[Info  - 08:24:53.730] Not starting server. Too many crashes.
+[Info  - 08:24:54.19] Starting TS Server 
+[Info  - 08:24:54.19] Not starting server. Too many crashes.
+[Info  - 08:24:55.318] Starting TS Server 
+[Info  - 08:24:55.319] Not starting server. Too many crashes.
+[Info  - 08:24:55.324] Starting TS Server 
+[Info  - 08:24:55.324] Not starting server. Too many crashes.
+[Info  - 08:24:55.396] Starting TS Server 
+[Info  - 08:24:55.396] Not starting server. Too many crashes.
+[Info  - 08:24:55.457] Starting TS Server 
+[Info  - 08:24:55.457] Not starting server. Too many crashes.
+[Info  - 08:24:55.528] Starting TS Server 
+[Info  - 08:24:55.528] Not starting server. Too many crashes.
+[Info  - 08:24:55.630] Starting TS Server 
+[Info  - 08:24:55.630] Not starting server. Too many crashes.
+[Info  - 08:24:55.633] Starting TS Server 
+[Info  - 08:24:55.633] Not starting server. Too many crashes.
+[Info  - 08:24:55.708] Starting TS Server 
+[Info  - 08:24:55.709] Not starting server. Too many crashes.
+[Info  - 08:24:55.809] Starting TS Server 
+[Info  - 08:24:55.809] Not starting server. Too many crashes.
+[Info  - 08:24:55.959] Starting TS Server 
+[Info  - 08:24:55.959] Not starting server. Too many crashes.
+[Info  - 08:24:56.105] Starting TS Server 
+[Info  - 08:24:56.105] Not starting server. Too many crashes.
+[Info  - 08:24:56.203] Starting TS Server 
+[Info  - 08:24:56.203] Not starting server. Too many crashes.
+[Info  - 08:24:56.303] Starting TS Server 
+[Info  - 08:24:56.303] Not starting server. Too many crashes.
+[Info  - 08:24:56.431] Starting TS Server 
+[Info  - 08:24:56.431] Not starting server. Too many crashes.
+[Info  - 08:24:56.435] Starting TS Server 
+[Info  - 08:24:56.435] Not starting server. Too many crashes.
+[Info  - 08:24:56.510] Starting TS Server 
+[Info  - 08:24:56.510] Not starting server. Too many crashes.
+[Info  - 08:24:56.609] Starting TS Server 
+[Info  - 08:24:56.609] Not starting server. Too many crashes.
+[Info  - 08:24:56.691] Starting TS Server 
+[Info  - 08:24:56.691] Not starting server. Too many crashes.
+[Info  - 08:24:56.796] Starting TS Server 
+[Info  - 08:24:56.796] Not starting server. Too many crashes.
+[Info  - 08:24:56.848] Starting TS Server 
+[Info  - 08:24:56.848] Not starting server. Too many crashes.
+[Info  - 08:24:56.948] Starting TS Server 
+[Info  - 08:24:56.948] Not starting server. Too many crashes.
+[Info  - 08:24:57.99] Starting TS Server 
+[Info  - 08:24:57.99] Not starting server. Too many crashes.
+[Info  - 08:24:57.292] Starting TS Server 
+[Info  - 08:24:57.292] Not starting server. Too many crashes.
+[Info  - 08:24:57.353] Starting TS Server 
+[Info  - 08:24:57.353] Not starting server. Too many crashes.
+[Info  - 08:24:57.454] Starting TS Server 
+[Info  - 08:24:57.454] Not starting server. Too many crashes.
+[Info  - 08:24:57.604] Starting TS Server 
+[Info  - 08:24:57.604] Not starting server. Too many crashes.
+[Info  - 08:24:58.22] Starting TS Server 
+[Info  - 08:24:58.22] Not starting server. Too many crashes.
+[Info  - 08:24:58.879] Starting TS Server 
+[Info  - 08:24:58.879] Not starting server. Too many crashes.
+[Info  - 08:24:59.876] Starting TS Server 
+[Info  - 08:24:59.876] Not starting server. Too many crashes.
+[Info  - 08:25:00.377] Starting TS Server 
+[Info  - 08:25:00.377] Not starting server. Too many crashes.
+[Info  - 08:25:00.491] Starting TS Server 
+[Info  - 08:25:00.491] Not starting server. Too many crashes.
+[Info  - 08:25:04.118] Starting TS Server 
+[Info  - 08:25:04.118] Not starting server. Too many crashes.
+[Info  - 08:25:04.129] Starting TS Server 
+[Info  - 08:25:04.129] Not starting server. Too many crashes.
+[Info  - 08:25:04.192] Starting TS Server 
+[Info  - 08:25:04.192] Not starting server. Too many crashes.
+[Info  - 08:25:04.311] Starting TS Server 
+[Info  - 08:25:04.311] Not starting server. Too many crashes.
+[Info  - 08:25:04.393] Starting TS Server 
+[Info  - 08:25:04.393] Not starting server. Too many crashes.
+[Info  - 08:25:04.420] Starting TS Server 
+[Info  - 08:25:04.420] Not starting server. Too many crashes.
+[Info  - 08:25:04.493] Starting TS Server 
+[Info  - 08:25:04.493] Not starting server. Too many crashes.
+[Info  - 08:25:04.543] Starting TS Server 
+[Info  - 08:25:04.543] Not starting server. Too many crashes.
+[Info  - 08:25:04.546] Starting TS Server 
+[Info  - 08:25:04.546] Not starting server. Too many crashes.
+[Info  - 08:25:04.628] Starting TS Server 
+[Info  - 08:25:04.628] Not starting server. Too many crashes.
+[Info  - 08:25:04.779] Starting TS Server 
+[Info  - 08:25:04.779] Not starting server. Too many crashes.
+[Info  - 08:25:04.867] Starting TS Server 
+[Info  - 08:25:04.867] Not starting server. Too many crashes.
+[Info  - 08:25:04.933] Starting TS Server 
+[Info  - 08:25:04.933] Not starting server. Too many crashes.
+[Info  - 08:25:05.6] Starting TS Server 
+[Info  - 08:25:05.6] Not starting server. Too many crashes.
+[Info  - 08:25:05.105] Starting TS Server 
+[Info  - 08:25:05.106] Not starting server. Too many crashes.
+[Info  - 08:25:05.256] Starting TS Server 
+[Info  - 08:25:05.256] Not starting server. Too many crashes.
+[Info  - 08:25:05.856] Starting TS Server 
+[Info  - 08:25:05.856] Not starting server. Too many crashes.
+[Info  - 08:25:05.935] Starting TS Server 
+[Info  - 08:25:05.935] Not starting server. Too many crashes.
+[Info  - 08:25:06.35] Starting TS Server 
+[Info  - 08:25:06.35] Not starting server. Too many crashes.
+[Info  - 08:25:06.97] Starting TS Server 
+[Info  - 08:25:06.97] Not starting server. Too many crashes.
+[Info  - 08:25:06.106] Starting TS Server 
+[Info  - 08:25:06.106] Not starting server. Too many crashes.
+[Info  - 08:25:06.177] Starting TS Server 
+[Info  - 08:25:06.177] Not starting server. Too many crashes.
+[Info  - 08:25:06.278] Starting TS Server 
+[Info  - 08:25:06.278] Not starting server. Too many crashes.
+[Info  - 08:25:06.287] Starting TS Server 
+[Info  - 08:25:06.287] Not starting server. Too many crashes.
+[Info  - 08:25:06.361] Starting TS Server 
+[Info  - 08:25:06.361] Not starting server. Too many crashes.
+[Info  - 08:25:06.461] Starting TS Server 
+[Info  - 08:25:06.461] Not starting server. Too many crashes.
+[Info  - 08:25:06.611] Starting TS Server 
+[Info  - 08:25:06.611] Not starting server. Too many crashes.
+[Info  - 08:25:07.277] Starting TS Server 
+[Info  - 08:25:07.277] Not starting server. Too many crashes.
+[Info  - 08:25:07.840] Starting TS Server 
+[Info  - 08:25:07.840] Not starting server. Too many crashes.
+[Info  - 08:25:08.645] Starting TS Server 
+[Info  - 08:25:08.645] Not starting server. Too many crashes.
+[Info  - 08:25:08.649] Starting TS Server 
+[Info  - 08:25:08.649] Not starting server. Too many crashes.
+[Info  - 08:25:08.723] Starting TS Server 
+[Info  - 08:25:08.723] Not starting server. Too many crashes.
+[Info  - 08:25:08.824] Starting TS Server 
+[Info  - 08:25:08.824] Not starting server. Too many crashes.
+[Info  - 08:25:08.910] Starting TS Server 
+[Info  - 08:25:08.910] Not starting server. Too many crashes.
+[Info  - 08:25:08.947] Starting TS Server 
+[Info  - 08:25:08.947] Not starting server. Too many crashes.
+[Info  - 08:25:09.27] Starting TS Server 
+[Info  - 08:25:09.27] Not starting server. Too many crashes.
+[Info  - 08:25:09.106] Starting TS Server 
+[Info  - 08:25:09.106] Not starting server. Too many crashes.
+[Info  - 08:25:09.182] Starting TS Server 
+[Info  - 08:25:09.182] Not starting server. Too many crashes.
+[Info  - 08:25:09.290] Starting TS Server 
+[Info  - 08:25:09.290] Not starting server. Too many crashes.
+[Info  - 08:25:09.298] Starting TS Server 
+[Info  - 08:25:09.298] Not starting server. Too many crashes.
+[Info  - 08:25:09.369] Starting TS Server 
+[Info  - 08:25:09.369] Not starting server. Too many crashes.
+[Info  - 08:25:09.469] Starting TS Server 
+[Info  - 08:25:09.469] Not starting server. Too many crashes.
+[Info  - 08:25:09.620] Starting TS Server 
+[Info  - 08:25:09.620] Not starting server. Too many crashes.
+[Info  - 08:25:10.177] Starting TS Server 
+[Info  - 08:25:10.177] Not starting server. Too many crashes.
+[Info  - 08:25:16.24] Starting TS Server 
+[Info  - 08:25:16.24] Not starting server. Too many crashes.
+[Info  - 08:25:16.223] Starting TS Server 
+[Info  - 08:25:16.223] Not starting server. Too many crashes.
+[Info  - 08:25:16.884] Starting TS Server 
+[Info  - 08:25:16.884] Not starting server. Too many crashes.
+[Info  - 08:25:17.16] Starting TS Server 
+[Info  - 08:25:17.16] Not starting server. Too many crashes.
+[Info  - 08:25:17.446] Starting TS Server 
+[Info  - 08:25:17.446] Not starting server. Too many crashes.
+[Info  - 08:25:17.454] Starting TS Server 
+[Info  - 08:25:17.454] Not starting server. Too many crashes.
+[Info  - 08:25:17.554] Starting TS Server 
+[Info  - 08:25:17.554] Not starting server. Too many crashes.
+[Info  - 08:25:17.656] Starting TS Server 
+[Info  - 08:25:17.656] Not starting server. Too many crashes.
+[Info  - 08:25:18.6] Starting TS Server 
+[Info  - 08:25:18.6] Not starting server. Too many crashes.
+[Info  - 08:25:18.151] Starting TS Server 
+[Info  - 08:25:18.151] Not starting server. Too many crashes.
+[Info  - 08:25:18.444] Starting TS Server 
+[Info  - 08:25:18.444] Not starting server. Too many crashes.
+[Info  - 08:25:18.486] Starting TS Server 
+[Info  - 08:25:18.486] Not starting server. Too many crashes.
+[Info  - 08:25:18.552] Starting TS Server 
+[Info  - 08:25:18.552] Not starting server. Too many crashes.
+[Info  - 08:25:18.583] Starting TS Server 
+[Info  - 08:25:18.583] Not starting server. Too many crashes.
+[Info  - 08:25:18.684] Starting TS Server 
+[Info  - 08:25:18.684] Not starting server. Too many crashes.
+[Info  - 08:25:18.787] Starting TS Server 
+[Info  - 08:25:18.787] Not starting server. Too many crashes.
+[Info  - 08:25:18.833] Starting TS Server 
+[Info  - 08:25:18.834] Not starting server. Too many crashes.
+[Info  - 08:25:19.99] Starting TS Server 
+[Info  - 08:25:19.99] Not starting server. Too many crashes.
+[Info  - 08:25:19.410] Starting TS Server 
+[Info  - 08:25:19.410] Not starting server. Too many crashes.
+[Info  - 08:25:19.700] Starting TS Server 
+[Info  - 08:25:19.700] Not starting server. Too many crashes.
+[Info  - 08:25:19.798] Starting TS Server 
+[Info  - 08:25:19.798] Not starting server. Too many crashes.
+[Info  - 08:25:19.898] Starting TS Server 
+[Info  - 08:25:19.898] Not starting server. Too many crashes.
+[Info  - 08:25:20.0] Starting TS Server 
+[Info  - 08:25:20.0] Not starting server. Too many crashes.
+[Info  - 08:25:20.163] Starting TS Server 
+[Info  - 08:25:20.163] Not starting server. Too many crashes.
+[Info  - 08:25:20.425] Starting TS Server 
+[Info  - 08:25:20.425] Not starting server. Too many crashes.
+[Info  - 08:25:20.484] Starting TS Server 
+[Info  - 08:25:20.484] Not starting server. Too many crashes.
+[Info  - 08:25:20.581] Starting TS Server 
+[Info  - 08:25:20.581] Not starting server. Too many crashes.
+[Info  - 08:25:20.682] Starting TS Server 
+[Info  - 08:25:20.682] Not starting server. Too many crashes.
+[Info  - 08:25:20.831] Starting TS Server 
+[Info  - 08:25:20.831] Not starting server. Too many crashes.
+[Info  - 08:25:21.253] Starting TS Server 
+[Info  - 08:25:21.253] Not starting server. Too many crashes.
+[Info  - 08:25:23.390] Starting TS Server 
+[Info  - 08:25:23.390] Not starting server. Too many crashes.
+[Info  - 08:25:24.432] Starting TS Server 
+[Info  - 08:25:24.432] Not starting server. Too many crashes.
+[Info  - 08:25:24.512] Starting TS Server 
+[Info  - 08:25:24.512] Not starting server. Too many crashes.
+[Info  - 08:25:24.591] Starting TS Server 
+[Info  - 08:25:24.591] Not starting server. Too many crashes.
+[Info  - 08:25:24.656] Starting TS Server 
+[Info  - 08:25:24.656] Not starting server. Too many crashes.
+[Info  - 08:25:24.705] Starting TS Server 
+[Info  - 08:25:24.705] Not starting server. Too many crashes.
+[Info  - 08:25:24.734] Starting TS Server 
+[Info  - 08:25:24.734] Not starting server. Too many crashes.
+[Info  - 08:25:24.803] Starting TS Server 
+[Info  - 08:25:24.803] Not starting server. Too many crashes.
+[Info  - 08:25:24.899] Starting TS Server 
+[Info  - 08:25:24.899] Not starting server. Too many crashes.
+[Info  - 08:25:25.49] Starting TS Server 
+[Info  - 08:25:25.49] Not starting server. Too many crashes.
+[Info  - 08:25:26.826] Starting TS Server 
+[Info  - 08:25:26.826] Not starting server. Too many crashes.
+[Info  - 08:25:26.839] Starting TS Server 
+[Info  - 08:25:26.839] Not starting server. Too many crashes.
+[Info  - 08:25:26.907] Starting TS Server 
+[Info  - 08:25:26.907] Not starting server. Too many crashes.
+[Info  - 08:25:26.992] Starting TS Server 
+[Info  - 08:25:26.992] Not starting server. Too many crashes.
+[Info  - 08:25:27.72] Starting TS Server 
+[Info  - 08:25:27.72] Not starting server. Too many crashes.
+[Info  - 08:25:27.188] Starting TS Server 
+[Info  - 08:25:27.188] Not starting server. Too many crashes.
+[Info  - 08:25:27.194] Starting TS Server 
+[Info  - 08:25:27.194] Not starting server. Too many crashes.
+[Info  - 08:25:27.239] Starting TS Server 
+[Info  - 08:25:27.239] Not starting server. Too many crashes.
+[Info  - 08:25:27.303] Starting TS Server 
+[Info  - 08:25:27.303] Not starting server. Too many crashes.
+[Info  - 08:25:27.389] Starting TS Server 
+[Info  - 08:25:27.389] Not starting server. Too many crashes.
+[Info  - 08:25:27.489] Starting TS Server 
+[Info  - 08:25:27.489] Not starting server. Too many crashes.
+[Info  - 08:25:27.535] Starting TS Server 
+[Info  - 08:25:27.535] Not starting server. Too many crashes.
+[Info  - 08:25:27.630] Starting TS Server 
+[Info  - 08:25:27.630] Not starting server. Too many crashes.
+[Info  - 08:25:27.728] Starting TS Server 
+[Info  - 08:25:27.728] Not starting server. Too many crashes.
+[Info  - 08:25:27.810] Starting TS Server 
+[Info  - 08:25:27.810] Not starting server. Too many crashes.
+[Info  - 08:25:27.909] Starting TS Server 
+[Info  - 08:25:27.909] Not starting server. Too many crashes.
+[Info  - 08:25:28.55] Starting TS Server 
+[Info  - 08:25:28.55] Not starting server. Too many crashes.
+[Info  - 08:25:28.133] Starting TS Server 
+[Info  - 08:25:28.133] Not starting server. Too many crashes.
+[Info  - 08:25:28.233] Starting TS Server 
+[Info  - 08:25:28.233] Not starting server. Too many crashes.
+[Info  - 08:25:28.314] Starting TS Server 
+[Info  - 08:25:28.314] Not starting server. Too many crashes.
+[Info  - 08:25:28.414] Starting TS Server 
+[Info  - 08:25:28.414] Not starting server. Too many crashes.
+[Info  - 08:25:28.533] Starting TS Server 
+[Info  - 08:25:28.533] Not starting server. Too many crashes.
+[Info  - 08:25:28.612] Starting TS Server 
+[Info  - 08:25:28.612] Not starting server. Too many crashes.
+[Info  - 08:25:28.711] Starting TS Server 
+[Info  - 08:25:28.711] Not starting server. Too many crashes.
+[Info  - 08:25:28.862] Starting TS Server 
+[Info  - 08:25:28.862] Not starting server. Too many crashes.
+[Info  - 08:25:29.375] Starting TS Server 
+[Info  - 08:25:29.375] Not starting server. Too many crashes.
+[Info  - 08:25:29.461] Starting TS Server 
+[Info  - 08:25:29.461] Not starting server. Too many crashes.
+[Info  - 08:25:29.561] Starting TS Server 
+[Info  - 08:25:29.561] Not starting server. Too many crashes.
+[Info  - 08:25:29.712] Starting TS Server 
+[Info  - 08:25:29.712] Not starting server. Too many crashes.
+[Info  - 08:25:29.904] Starting TS Server 
+[Info  - 08:25:29.904] Not starting server. Too many crashes.
+[Info  - 08:25:29.997] Starting TS Server 
+[Info  - 08:25:29.997] Not starting server. Too many crashes.
+[Info  - 08:25:30.97] Starting TS Server 
+[Info  - 08:25:30.97] Not starting server. Too many crashes.
+[Info  - 08:25:30.247] Starting TS Server 
+[Info  - 08:25:30.247] Not starting server. Too many crashes.
+[Info  - 08:25:30.360] Starting TS Server 
+[Info  - 08:25:30.360] Not starting server. Too many crashes.
+[Info  - 08:25:30.421] Starting TS Server 
+[Info  - 08:25:30.421] Not starting server. Too many crashes.
+[Info  - 08:25:30.515] Starting TS Server 
+[Info  - 08:25:30.515] Not starting server. Too many crashes.
+[Info  - 08:25:30.665] Starting TS Server 
+[Info  - 08:25:30.665] Not starting server. Too many crashes.
+[Info  - 08:25:32.150] Starting TS Server 
+[Info  - 08:25:32.150] Not starting server. Too many crashes.
+[Info  - 08:25:32.245] Starting TS Server 
+[Info  - 08:25:32.245] Not starting server. Too many crashes.
+[Info  - 08:25:32.345] Starting TS Server 
+[Info  - 08:25:32.345] Not starting server. Too many crashes.
+[Info  - 08:25:32.496] Starting TS Server 
+[Info  - 08:25:32.496] Not starting server. Too many crashes.
+[Info  - 08:25:32.792] Starting TS Server 
+[Info  - 08:25:32.792] Not starting server. Too many crashes.
+[Info  - 08:25:42.247] Starting TS Server 
+[Info  - 08:25:42.247] Not starting server. Too many crashes.
+[Info  - 08:25:42.251] Starting TS Server 
+[Info  - 08:25:42.252] Not starting server. Too many crashes.
+[Info  - 08:25:42.306] Starting TS Server 
+[Info  - 08:25:42.306] Not starting server. Too many crashes.
+[Info  - 08:25:42.406] Starting TS Server 
+[Info  - 08:25:42.406] Not starting server. Too many crashes.
+[Info  - 08:25:42.550] Starting TS Server 
+[Info  - 08:25:42.550] Not starting server. Too many crashes.
+[Info  - 08:25:42.556] Starting TS Server 
+[Info  - 08:25:42.556] Not starting server. Too many crashes.
+[Info  - 08:25:43.527] Starting TS Server 
+[Info  - 08:25:43.527] Not starting server. Too many crashes.
+[Info  - 08:25:43.835] Starting TS Server 
+[Info  - 08:25:43.835] Not starting server. Too many crashes.
+[Info  - 08:25:44.878] Starting TS Server 
+[Info  - 08:25:44.878] Not starting server. Too many crashes.
+[Info  - 08:25:46.279] Starting TS Server 
+[Info  - 08:25:46.279] Not starting server. Too many crashes.
+[Info  - 08:25:46.579] Starting TS Server 
+[Info  - 08:25:46.579] Not starting server. Too many crashes.
+[Info  - 08:25:51.38] Starting TS Server 
+[Info  - 08:25:51.38] Not starting server. Too many crashes.
+[Info  - 08:25:51.338] Starting TS Server 
+[Info  - 08:25:51.338] Not starting server. Too many crashes.
+[Info  - 08:25:52.487] Starting TS Server 
+[Info  - 08:25:52.487] Not starting server. Too many crashes.
+[Info  - 08:25:53.536] Starting TS Server 
+[Info  - 08:25:53.536] Not starting server. Too many crashes.
+[Info  - 08:25:54.188] Starting TS Server 
+[Info  - 08:25:54.188] Not starting server. Too many crashes.
+[Info  - 08:25:54.263] Starting TS Server 
+[Info  - 08:25:54.263] Not starting server. Too many crashes.
+[Info  - 08:25:54.372] Starting TS Server 
+[Info  - 08:25:54.372] Not starting server. Too many crashes.
+[Info  - 08:25:54.458] Starting TS Server 
+[Info  - 08:25:54.458] Not starting server. Too many crashes.
+[Info  - 08:25:54.489] Starting TS Server 
+[Info  - 08:25:54.489] Not starting server. Too many crashes.
+[Info  - 08:25:54.545] Starting TS Server 
+[Info  - 08:25:54.545] Not starting server. Too many crashes.
+[Info  - 08:25:54.568] Starting TS Server 
+[Info  - 08:25:54.568] Not starting server. Too many crashes.
+[Info  - 08:25:54.663] Starting TS Server 
+[Info  - 08:25:54.663] Not starting server. Too many crashes.
+[Info  - 08:25:54.764] Starting TS Server 
+[Info  - 08:25:54.764] Not starting server. Too many crashes.
+[Info  - 08:25:54.810] Starting TS Server 
+[Info  - 08:25:54.810] Not starting server. Too many crashes.
+[Info  - 08:25:54.931] Starting TS Server 
+[Info  - 08:25:54.931] Not starting server. Too many crashes.
+[Info  - 08:25:54.982] Starting TS Server 
+[Info  - 08:25:54.982] Not starting server. Too many crashes.
+[Info  - 08:25:55.63] Starting TS Server 
+[Info  - 08:25:55.63] Not starting server. Too many crashes.
+[Info  - 08:25:55.155] Starting TS Server 
+[Info  - 08:25:55.155] Not starting server. Too many crashes.
+[Info  - 08:25:55.231] Starting TS Server 
+[Info  - 08:25:55.231] Not starting server. Too many crashes.
+[Info  - 08:25:55.312] Starting TS Server 
+[Info  - 08:25:55.312] Not starting server. Too many crashes.
+[Info  - 08:25:55.411] Starting TS Server 
+[Info  - 08:25:55.411] Not starting server. Too many crashes.
+[Info  - 08:25:55.562] Starting TS Server 
+[Info  - 08:25:55.562] Not starting server. Too many crashes.
+[Info  - 08:25:56.55] Starting TS Server 
+[Info  - 08:25:56.55] Not starting server. Too many crashes.
+[Info  - 08:25:56.779] Starting TS Server 
+[Info  - 08:25:56.779] Not starting server. Too many crashes.
+[Info  - 08:25:56.891] Starting TS Server 
+[Info  - 08:25:56.891] Not starting server. Too many crashes.
+[Info  - 08:25:58.874] Starting TS Server 
+[Info  - 08:25:58.875] Not starting server. Too many crashes.
+[Info  - 08:25:58.942] Starting TS Server 
+[Info  - 08:25:58.942] Not starting server. Too many crashes.
+[Info  - 08:25:59.25] Starting TS Server 
+[Info  - 08:25:59.26] Not starting server. Too many crashes.
+[Info  - 08:25:59.104] Starting TS Server 
+[Info  - 08:25:59.104] Not starting server. Too many crashes.
+[Info  - 08:25:59.177] Starting TS Server 
+[Info  - 08:25:59.177] Not starting server. Too many crashes.
+[Info  - 08:25:59.204] Starting TS Server 
+[Info  - 08:25:59.204] Not starting server. Too many crashes.
+[Info  - 08:25:59.270] Starting TS Server 
+[Info  - 08:25:59.270] Not starting server. Too many crashes.
+[Info  - 08:25:59.344] Starting TS Server 
+[Info  - 08:25:59.344] Not starting server. Too many crashes.
+[Info  - 08:25:59.431] Starting TS Server 
+[Info  - 08:25:59.431] Not starting server. Too many crashes.
+[Info  - 08:25:59.513] Starting TS Server 
+[Info  - 08:25:59.513] Not starting server. Too many crashes.
+[Info  - 08:25:59.540] Starting TS Server 
+[Info  - 08:25:59.540] Not starting server. Too many crashes.
+[Info  - 08:25:59.653] Starting TS Server 
+[Info  - 08:25:59.653] Not starting server. Too many crashes.
+[Info  - 08:25:59.731] Starting TS Server 
+[Info  - 08:25:59.731] Not starting server. Too many crashes.
+[Info  - 08:25:59.813] Starting TS Server 
+[Info  - 08:25:59.813] Not starting server. Too many crashes.
+[Info  - 08:25:59.879] Starting TS Server 
+[Info  - 08:25:59.879] Not starting server. Too many crashes.
+[Info  - 08:25:59.956] Starting TS Server 
+[Info  - 08:25:59.956] Not starting server. Too many crashes.
+[Info  - 08:26:00.55] Starting TS Server 
+[Info  - 08:26:00.55] Not starting server. Too many crashes.
+[Info  - 08:26:00.206] Starting TS Server 
+[Info  - 08:26:00.206] Not starting server. Too many crashes.
+[Info  - 08:26:01.116] Starting TS Server 
+[Info  - 08:26:01.116] Not starting server. Too many crashes.
+[Info  - 08:26:01.164] Starting TS Server 
+[Info  - 08:26:01.164] Not starting server. Too many crashes.
+[Info  - 08:26:01.447] Starting TS Server 
+[Info  - 08:26:01.447] Not starting server. Too many crashes.
+[Info  - 08:26:01.549] Starting TS Server 
+[Info  - 08:26:01.549] Not starting server. Too many crashes.
+[Info  - 08:26:01.664] Starting TS Server 
+[Info  - 08:26:01.664] Not starting server. Too many crashes.
+[Info  - 08:26:01.813] Starting TS Server 
+[Info  - 08:26:01.813] Not starting server. Too many crashes.
+[Info  - 08:26:01.890] Starting TS Server 
+[Info  - 08:26:01.890] Not starting server. Too many crashes.
+[Info  - 08:26:02.150] Starting TS Server 
+[Info  - 08:26:02.150] Not starting server. Too many crashes.
+[Info  - 08:26:02.197] Starting TS Server 
+[Info  - 08:26:02.197] Not starting server. Too many crashes.
+[Info  - 08:26:02.268] Starting TS Server 
+[Info  - 08:26:02.268] Not starting server. Too many crashes.
+[Info  - 08:26:02.368] Starting TS Server 
+[Info  - 08:26:02.368] Not starting server. Too many crashes.
+[Info  - 08:26:02.518] Starting TS Server 
+[Info  - 08:26:02.518] Not starting server. Too many crashes.
+[Info  - 08:26:03.0] Starting TS Server 
+[Info  - 08:26:03.0] Not starting server. Too many crashes.
+[Info  - 08:26:03.572] Starting TS Server 
+[Info  - 08:26:03.572] Not starting server. Too many crashes.
+[Info  - 08:26:03.650] Starting TS Server 
+[Info  - 08:26:03.651] Not starting server. Too many crashes.
+[Info  - 08:26:04.982] Starting TS Server 
+[Info  - 08:26:04.982] Not starting server. Too many crashes.
+[Info  - 08:26:05.52] Starting TS Server 
+[Info  - 08:26:05.52] Not starting server. Too many crashes.
+[Info  - 08:26:05.149] Starting TS Server 
+[Info  - 08:26:05.149] Not starting server. Too many crashes.
+[Info  - 08:26:05.249] Starting TS Server 
+[Info  - 08:26:05.249] Not starting server. Too many crashes.
+[Info  - 08:26:05.278] Starting TS Server 
+[Info  - 08:26:05.278] Not starting server. Too many crashes.
+[Info  - 08:26:05.283] Starting TS Server 
+[Info  - 08:26:05.283] Not starting server. Too many crashes.
+[Info  - 08:26:05.354] Starting TS Server 
+[Info  - 08:26:05.354] Not starting server. Too many crashes.
+[Info  - 08:26:05.435] Starting TS Server 
+[Info  - 08:26:05.435] Not starting server. Too many crashes.
+[Info  - 08:26:05.507] Starting TS Server 
+[Info  - 08:26:05.507] Not starting server. Too many crashes.
+[Info  - 08:26:05.605] Starting TS Server 
+[Info  - 08:26:05.605] Not starting server. Too many crashes.
+[Info  - 08:26:05.623] Starting TS Server 
+[Info  - 08:26:05.623] Not starting server. Too many crashes.
+[Info  - 08:26:05.720] Starting TS Server 
+[Info  - 08:26:05.720] Not starting server. Too many crashes.
+[Info  - 08:26:05.780] Starting TS Server 
+[Info  - 08:26:05.780] Not starting server. Too many crashes.
+[Info  - 08:26:05.873] Starting TS Server 
+[Info  - 08:26:05.873] Not starting server. Too many crashes.
+[Info  - 08:26:05.923] Starting TS Server 
+[Info  - 08:26:05.923] Not starting server. Too many crashes.
+[Info  - 08:26:06.18] Starting TS Server 
+[Info  - 08:26:06.18] Not starting server. Too many crashes.
+[Info  - 08:26:06.62] Starting TS Server 
+[Info  - 08:26:06.62] Not starting server. Too many crashes.
+[Info  - 08:26:06.158] Starting TS Server 
+[Info  - 08:26:06.158] Not starting server. Too many crashes.
+[Info  - 08:26:06.232] Starting TS Server 
+[Info  - 08:26:06.232] Not starting server. Too many crashes.
+[Info  - 08:26:06.288] Starting TS Server 
+[Info  - 08:26:06.288] Not starting server. Too many crashes.
+[Info  - 08:26:06.382] Starting TS Server 
+[Info  - 08:26:06.382] Not starting server. Too many crashes.
+[Info  - 08:26:06.487] Starting TS Server 
+[Info  - 08:26:06.487] Not starting server. Too many crashes.
+[Info  - 08:26:06.558] Starting TS Server 
+[Info  - 08:26:06.558] Not starting server. Too many crashes.
+[Info  - 08:26:06.658] Starting TS Server 
+[Info  - 08:26:06.658] Not starting server. Too many crashes.
+[Info  - 08:26:06.808] Starting TS Server 
+[Info  - 08:26:06.808] Not starting server. Too many crashes.
+[Info  - 08:26:07.587] Starting TS Server 
+[Info  - 08:26:07.587] Not starting server. Too many crashes.
+[Info  - 08:26:07.767] Starting TS Server 
+[Info  - 08:26:07.767] Not starting server. Too many crashes.
+[Info  - 08:26:08.518] Starting TS Server 
+[Info  - 08:26:08.518] Not starting server. Too many crashes.
+[Info  - 08:26:08.582] Starting TS Server 
+[Info  - 08:26:08.582] Not starting server. Too many crashes.
+[Info  - 08:26:08.682] Starting TS Server 
+[Info  - 08:26:08.682] Not starting server. Too many crashes.
+[Info  - 08:26:08.697] Starting TS Server 
+[Info  - 08:26:08.697] Not starting server. Too many crashes.
+[Info  - 08:26:08.792] Starting TS Server 
+[Info  - 08:26:08.792] Not starting server. Too many crashes.
+[Info  - 08:26:08.866] Starting TS Server 
+[Info  - 08:26:08.866] Not starting server. Too many crashes.
+[Info  - 08:26:08.973] Starting TS Server 
+[Info  - 08:26:08.973] Not starting server. Too many crashes.
+[Info  - 08:26:09.49] Starting TS Server 
+[Info  - 08:26:09.49] Not starting server. Too many crashes.
+[Info  - 08:26:09.170] Starting TS Server 
+[Info  - 08:26:09.170] Not starting server. Too many crashes.
+[Info  - 08:26:09.250] Starting TS Server 
+[Info  - 08:26:09.250] Not starting server. Too many crashes.
+[Info  - 08:26:09.357] Starting TS Server 
+[Info  - 08:26:09.357] Not starting server. Too many crashes.
+[Info  - 08:26:09.433] Starting TS Server 
+[Info  - 08:26:09.433] Not starting server. Too many crashes.
+[Info  - 08:26:09.533] Starting TS Server 
+[Info  - 08:26:09.533] Not starting server. Too many crashes.
+[Info  - 08:26:09.684] Starting TS Server 
+[Info  - 08:26:09.684] Not starting server. Too many crashes.
+[Info  - 08:26:10.761] Starting TS Server 
+[Info  - 08:26:10.761] Not starting server. Too many crashes.
+[Info  - 08:26:11.188] Starting TS Server 
+[Info  - 08:26:11.188] Not starting server. Too many crashes.
+[Info  - 08:26:11.485] Starting TS Server 
+[Info  - 08:26:11.485] Not starting server. Too many crashes.
+[Info  - 08:26:12.603] Starting TS Server 
+[Info  - 08:26:12.603] Not starting server. Too many crashes.
+[Info  - 08:26:13.608] Starting TS Server 
+[Info  - 08:26:13.608] Not starting server. Too many crashes.
+[Info  - 08:26:14.577] Starting TS Server 
+[Info  - 08:26:14.577] Not starting server. Too many crashes.
+[Info  - 08:26:14.662] Starting TS Server 
+[Info  - 08:26:14.662] Not starting server. Too many crashes.
+[Info  - 08:26:14.709] Starting TS Server 
+[Info  - 08:26:14.709] Not starting server. Too many crashes.
+[Info  - 08:26:14.808] Starting TS Server 
+[Info  - 08:26:14.808] Not starting server. Too many crashes.
+[Info  - 08:26:14.908] Starting TS Server 
+[Info  - 08:26:14.908] Not starting server. Too many crashes.
+[Info  - 08:26:15.58] Starting TS Server 
+[Info  - 08:26:15.58] Not starting server. Too many crashes.
+[Info  - 08:26:15.472] Starting TS Server 
+[Info  - 08:26:15.472] Not starting server. Too many crashes.
+[Info  - 08:26:15.548] Starting TS Server 
+[Info  - 08:26:15.548] Not starting server. Too many crashes.
+[Info  - 08:26:15.648] Starting TS Server 
+[Info  - 08:26:15.648] Not starting server. Too many crashes.
+[Info  - 08:26:15.798] Starting TS Server 
+[Info  - 08:26:15.799] Not starting server. Too many crashes.
+[Info  - 08:26:16.920] Starting TS Server 
+[Info  - 08:26:16.920] Not starting server. Too many crashes.
+[Info  - 08:26:17.212] Starting TS Server 
+[Info  - 08:26:17.212] Not starting server. Too many crashes.
+[Info  - 08:26:17.413] Starting TS Server 
+[Info  - 08:26:17.413] Not starting server. Too many crashes.
+[Info  - 08:26:17.516] Starting TS Server 
+[Info  - 08:26:17.516] Not starting server. Too many crashes.
+[Info  - 08:26:17.763] Starting TS Server 
+[Info  - 08:26:17.763] Not starting server. Too many crashes.
+[Info  - 08:26:17.800] Starting TS Server 
+[Info  - 08:26:17.800] Not starting server. Too many crashes.
+[Info  - 08:26:18.147] Starting TS Server 
+[Info  - 08:26:18.147] Not starting server. Too many crashes.
+[Info  - 08:26:18.726] Starting TS Server 
+[Info  - 08:26:18.726] Not starting server. Too many crashes.
+[Info  - 08:26:18.804] Starting TS Server 
+[Info  - 08:26:18.804] Not starting server. Too many crashes.
+[Info  - 08:26:18.903] Starting TS Server 
+[Info  - 08:26:18.903] Not starting server. Too many crashes.
+[Info  - 08:26:19.54] Starting TS Server 
+[Info  - 08:26:19.54] Not starting server. Too many crashes.
+[Info  - 08:26:38.450] Starting TS Server 
+[Info  - 08:26:38.450] Not starting server. Too many crashes.
+[Info  - 08:26:38.522] Starting TS Server 
+[Info  - 08:26:38.522] Not starting server. Too many crashes.
+[Info  - 08:26:38.571] Starting TS Server 
+[Info  - 08:26:38.571] Not starting server. Too many crashes.
+[Info  - 08:26:38.636] Starting TS Server 
+[Info  - 08:26:38.636] Not starting server. Too many crashes.
+[Info  - 08:26:38.731] Starting TS Server 
+[Info  - 08:26:38.731] Not starting server. Too many crashes.
+[Info  - 08:26:38.784] Starting TS Server 
+[Info  - 08:26:38.784] Not starting server. Too many crashes.
+[Info  - 08:26:38.787] Starting TS Server 
+[Info  - 08:26:38.787] Not starting server. Too many crashes.
+[Info  - 08:26:38.850] Starting TS Server 
+[Info  - 08:26:38.850] Not starting server. Too many crashes.
+[Info  - 08:26:38.950] Starting TS Server 
+[Info  - 08:26:38.950] Not starting server. Too many crashes.
+[Info  - 08:26:39.100] Starting TS Server 
+[Info  - 08:26:39.100] Not starting server. Too many crashes.
+[Info  - 08:26:39.591] Starting TS Server 
+[Info  - 08:26:39.591] Not starting server. Too many crashes.
+[Info  - 08:26:50.103] Starting TS Server 
+[Info  - 08:26:50.103] Not starting server. Too many crashes.
+[Info  - 08:26:50.115] Starting TS Server 
+[Info  - 08:26:50.115] Not starting server. Too many crashes.
+[Info  - 08:26:50.164] Starting TS Server 
+[Info  - 08:26:50.164] Not starting server. Too many crashes.
+[Info  - 08:26:50.253] Starting TS Server 
+[Info  - 08:26:50.253] Not starting server. Too many crashes.
+[Info  - 08:26:50.259] Starting TS Server 
+[Info  - 08:26:50.259] Not starting server. Too many crashes.
+[Info  - 08:26:50.331] Starting TS Server 
+[Info  - 08:26:50.331] Not starting server. Too many crashes.
+[Info  - 08:26:50.404] Starting TS Server 
+[Info  - 08:26:50.404] Not starting server. Too many crashes.
+[Info  - 08:26:50.433] Starting TS Server 
+[Info  - 08:26:50.434] Not starting server. Too many crashes.
+[Info  - 08:26:50.582] Starting TS Server 
+[Info  - 08:26:50.582] Not starting server. Too many crashes.
+[Info  - 08:26:50.675] Starting TS Server 
+[Info  - 08:26:50.675] Not starting server. Too many crashes.
+[Info  - 08:26:50.678] Starting TS Server 
+[Info  - 08:26:50.678] Not starting server. Too many crashes.
+[Info  - 08:26:50.757] Starting TS Server 
+[Info  - 08:26:50.757] Not starting server. Too many crashes.
+[Info  - 08:26:50.857] Starting TS Server 
+[Info  - 08:26:50.857] Not starting server. Too many crashes.
+[Info  - 08:26:50.949] Starting TS Server 
+[Info  - 08:26:50.949] Not starting server. Too many crashes.
+[Info  - 08:26:50.950] Starting TS Server 
+[Info  - 08:26:50.950] Not starting server. Too many crashes.
+[Info  - 08:26:51.8] Starting TS Server 
+[Info  - 08:26:51.8] Not starting server. Too many crashes.
+[Info  - 08:26:51.109] Starting TS Server 
+[Info  - 08:26:51.109] Not starting server. Too many crashes.
+[Info  - 08:26:51.259] Starting TS Server 
+[Info  - 08:26:51.259] Not starting server. Too many crashes.
+[Info  - 08:26:51.716] Starting TS Server 
+[Info  - 08:26:51.716] Not starting server. Too many crashes.
+[Info  - 08:26:51.719] Starting TS Server 
+[Info  - 08:26:51.719] Not starting server. Too many crashes.
+[Info  - 08:26:51.785] Starting TS Server 
+[Info  - 08:26:51.785] Not starting server. Too many crashes.
+[Info  - 08:26:51.836] Starting TS Server 
+[Info  - 08:26:51.836] Not starting server. Too many crashes.
+[Info  - 08:26:51.841] Starting TS Server 
+[Info  - 08:26:51.841] Not starting server. Too many crashes.
+[Info  - 08:26:51.909] Starting TS Server 
+[Info  - 08:26:51.909] Not starting server. Too many crashes.
+[Info  - 08:26:51.958] Starting TS Server 
+[Info  - 08:26:51.958] Not starting server. Too many crashes.
+[Info  - 08:26:51.963] Starting TS Server 
+[Info  - 08:26:51.963] Not starting server. Too many crashes.
+[Info  - 08:26:52.39] Starting TS Server 
+[Info  - 08:26:52.39] Not starting server. Too many crashes.
+[Info  - 08:26:52.140] Starting TS Server 
+[Info  - 08:26:52.140] Not starting server. Too many crashes.
+[Info  - 08:26:52.289] Starting TS Server 
+[Info  - 08:26:52.289] Not starting server. Too many crashes.
+[Info  - 08:26:52.470] Starting TS Server 
+[Info  - 08:26:52.470] Not starting server. Too many crashes.
+[Info  - 08:26:52.567] Starting TS Server 
+[Info  - 08:26:52.567] Not starting server. Too many crashes.
+[Info  - 08:26:52.623] Starting TS Server 
+[Info  - 08:26:52.623] Not starting server. Too many crashes.
+[Info  - 08:26:52.720] Starting TS Server 
+[Info  - 08:26:52.720] Not starting server. Too many crashes.
+[Info  - 08:26:52.820] Starting TS Server 
+[Info  - 08:26:52.820] Not starting server. Too many crashes.
+[Info  - 08:26:52.970] Starting TS Server 
+[Info  - 08:26:52.971] Not starting server. Too many crashes.
+[Info  - 08:26:53.66] Starting TS Server 
+[Info  - 08:26:53.66] Not starting server. Too many crashes.
+[Info  - 08:26:53.163] Starting TS Server 
+[Info  - 08:26:53.163] Not starting server. Too many crashes.
+[Info  - 08:26:53.263] Starting TS Server 
+[Info  - 08:26:53.263] Not starting server. Too many crashes.
+[Info  - 08:26:53.414] Starting TS Server 
+[Info  - 08:26:53.414] Not starting server. Too many crashes.
+[Info  - 08:26:53.689] Starting TS Server 
+[Info  - 08:26:53.689] Not starting server. Too many crashes.
+[Info  - 08:26:53.692] Starting TS Server 
+[Info  - 08:26:53.692] Not starting server. Too many crashes.
+[Info  - 08:26:53.771] Starting TS Server 
+[Info  - 08:26:53.771] Not starting server. Too many crashes.
+[Info  - 08:26:53.782] Starting TS Server 
+[Info  - 08:26:53.782] Not starting server. Too many crashes.
+[Info  - 08:26:53.802] Starting TS Server 
+[Info  - 08:26:53.802] Not starting server. Too many crashes.
+[Info  - 08:26:53.895] Starting TS Server 
+[Info  - 08:26:53.895] Not starting server. Too many crashes.
+[Info  - 08:26:53.925] Starting TS Server 
+[Info  - 08:26:53.925] Not starting server. Too many crashes.
+[Info  - 08:26:53.964] Starting TS Server 
+[Info  - 08:26:53.964] Not starting server. Too many crashes.
+[Info  - 08:26:54.67] Starting TS Server 
+[Info  - 08:26:54.67] Not starting server. Too many crashes.
+[Info  - 08:26:54.213] Starting TS Server 
+[Info  - 08:26:54.213] Not starting server. Too many crashes.
+[Info  - 08:26:54.503] Starting TS Server 
+[Info  - 08:26:54.503] Not starting server. Too many crashes.
+[Info  - 08:26:54.598] Starting TS Server 
+[Info  - 08:26:54.598] Not starting server. Too many crashes.
+[Info  - 08:26:54.690] Starting TS Server 
+[Info  - 08:26:54.690] Not starting server. Too many crashes.
+[Info  - 08:26:54.768] Starting TS Server 
+[Info  - 08:26:54.768] Not starting server. Too many crashes.
+[Info  - 08:26:54.818] Starting TS Server 
+[Info  - 08:26:54.818] Not starting server. Too many crashes.
+[Info  - 08:26:54.902] Starting TS Server 
+[Info  - 08:26:54.902] Not starting server. Too many crashes.
+[Info  - 08:26:55.3] Starting TS Server 
+[Info  - 08:26:55.3] Not starting server. Too many crashes.
+[Info  - 08:26:55.152] Starting TS Server 
+[Info  - 08:26:55.152] Not starting server. Too many crashes.
+[Info  - 08:26:55.629] Starting TS Server 
+[Info  - 08:26:55.629] Not starting server. Too many crashes.
+[Info  - 08:26:55.631] Starting TS Server 
+[Info  - 08:26:55.631] Not starting server. Too many crashes.
+[Info  - 08:26:55.716] Starting TS Server 
+[Info  - 08:26:55.716] Not starting server. Too many crashes.
+[Info  - 08:26:55.721] Starting TS Server 
+[Info  - 08:26:55.721] Not starting server. Too many crashes.
+[Info  - 08:26:55.812] Starting TS Server 
+[Info  - 08:26:55.812] Not starting server. Too many crashes.
+[Info  - 08:26:55.814] Starting TS Server 
+[Info  - 08:26:55.814] Not starting server. Too many crashes.
+[Info  - 08:26:55.893] Starting TS Server 
+[Info  - 08:26:55.893] Not starting server. Too many crashes.
+[Info  - 08:26:55.993] Starting TS Server 
+[Info  - 08:26:55.993] Not starting server. Too many crashes.
+[Info  - 08:26:56.143] Starting TS Server 
+[Info  - 08:26:56.143] Not starting server. Too many crashes.
+[Info  - 08:26:56.955] Starting TS Server 
+[Info  - 08:26:56.955] Not starting server. Too many crashes.
+[Info  - 08:26:57.9] Starting TS Server 
+[Info  - 08:26:57.9] Not starting server. Too many crashes.
+[Info  - 08:26:57.102] Starting TS Server 
+[Info  - 08:26:57.102] Not starting server. Too many crashes.
+[Info  - 08:26:57.128] Starting TS Server 
+[Info  - 08:26:57.128] Not starting server. Too many crashes.
+[Info  - 08:26:57.202] Starting TS Server 
+[Info  - 08:26:57.202] Not starting server. Too many crashes.
+[Info  - 08:26:57.307] Starting TS Server 
+[Info  - 08:26:57.307] Not starting server. Too many crashes.
+[Info  - 08:26:57.387] Starting TS Server 
+[Info  - 08:26:57.387] Not starting server. Too many crashes.
+[Info  - 08:26:57.487] Starting TS Server 
+[Info  - 08:26:57.487] Not starting server. Too many crashes.
+[Info  - 08:26:57.638] Starting TS Server 
+[Info  - 08:26:57.638] Not starting server. Too many crashes.
+[Info  - 08:27:00.106] Starting TS Server 
+[Info  - 08:27:00.106] Not starting server. Too many crashes.
+[Info  - 08:27:00.200] Starting TS Server 
+[Info  - 08:27:00.200] Not starting server. Too many crashes.
+[Info  - 08:27:00.300] Starting TS Server 
+[Info  - 08:27:00.301] Not starting server. Too many crashes.
+[Info  - 08:27:00.451] Starting TS Server 
+[Info  - 08:27:00.451] Not starting server. Too many crashes.
+[Info  - 08:27:00.886] Starting TS Server 
+[Info  - 08:27:00.886] Not starting server. Too many crashes.
+[Info  - 08:27:00.957] Starting TS Server 
+[Info  - 08:27:00.957] Not starting server. Too many crashes.
+[Info  - 08:27:01.56] Starting TS Server 
+[Info  - 08:27:01.56] Not starting server. Too many crashes.
+[Info  - 08:27:01.206] Starting TS Server 
+[Info  - 08:27:01.206] Not starting server. Too many crashes.
+[Info  - 08:27:01.615] Starting TS Server 
+[Info  - 08:27:01.615] Not starting server. Too many crashes.
+[Info  - 08:27:02.679] Starting TS Server 
+[Info  - 08:27:02.679] Not starting server. Too many crashes.
+[Info  - 08:27:02.686] Starting TS Server 
+[Info  - 08:27:02.686] Not starting server. Too many crashes.
+[Info  - 08:27:02.757] Starting TS Server 
+[Info  - 08:27:02.757] Not starting server. Too many crashes.
+[Info  - 08:27:02.854] Starting TS Server 
+[Info  - 08:27:02.854] Not starting server. Too many crashes.
+[Info  - 08:27:02.931] Starting TS Server 
+[Info  - 08:27:02.931] Not starting server. Too many crashes.
+[Info  - 08:27:03.32] Starting TS Server 
+[Info  - 08:27:03.32] Not starting server. Too many crashes.
+[Info  - 08:27:03.87] Starting TS Server 
+[Info  - 08:27:03.87] Not starting server. Too many crashes.
+[Info  - 08:27:03.97] Starting TS Server 
+[Info  - 08:27:03.97] Not starting server. Too many crashes.
+[Info  - 08:27:03.149] Starting TS Server 
+[Info  - 08:27:03.149] Not starting server. Too many crashes.
+[Info  - 08:27:03.247] Starting TS Server 
+[Info  - 08:27:03.247] Not starting server. Too many crashes.
+[Info  - 08:27:03.330] Starting TS Server 
+[Info  - 08:27:03.330] Not starting server. Too many crashes.
+[Info  - 08:27:03.430] Starting TS Server 
+[Info  - 08:27:03.430] Not starting server. Too many crashes.
+[Info  - 08:27:03.581] Starting TS Server 
+[Info  - 08:27:03.581] Not starting server. Too many crashes.
+[Info  - 08:27:04.163] Starting TS Server 
+[Info  - 08:27:04.163] Not starting server. Too many crashes.
+[Info  - 08:27:04.231] Starting TS Server 
+[Info  - 08:27:04.231] Not starting server. Too many crashes.
+[Info  - 08:27:04.331] Starting TS Server 
+[Info  - 08:27:04.331] Not starting server. Too many crashes.
+[Info  - 08:27:04.481] Starting TS Server 
+[Info  - 08:27:04.481] Not starting server. Too many crashes.
+[Info  - 08:27:04.808] Starting TS Server 
+[Info  - 08:27:04.808] Not starting server. Too many crashes.
+[Info  - 08:27:10.331] Starting TS Server 
+[Info  - 08:27:10.331] Not starting server. Too many crashes.
+[Info  - 08:27:11.941] Starting TS Server 
+[Info  - 08:27:11.941] Not starting server. Too many crashes.
+[Info  - 08:28:51.781] Starting TS Server 
+[Info  - 08:28:51.781] Not starting server. Too many crashes.
+[Info  - 08:28:51.860] Starting TS Server 
+[Info  - 08:28:51.860] Not starting server. Too many crashes.
+[Info  - 08:28:52.23] Starting TS Server 
+[Info  - 08:28:52.23] Not starting server. Too many crashes.
+[Info  - 08:28:52.107] Starting TS Server 
+[Info  - 08:28:52.107] Not starting server. Too many crashes.
+[Info  - 08:28:57.753] Starting TS Server 
+[Info  - 08:28:57.753] Not starting server. Too many crashes.
+[Info  - 08:28:57.955] Starting TS Server 
+[Info  - 08:28:57.955] Not starting server. Too many crashes.
+[Info  - 08:28:58.295] Starting TS Server 
+[Info  - 08:28:58.295] Not starting server. Too many crashes.
+[Info  - 08:28:58.491] Starting TS Server 
+[Info  - 08:28:58.491] Not starting server. Too many crashes.
+[Info  - 08:29:28.692] Starting TS Server 
+[Info  - 08:29:28.692] Not starting server. Too many crashes.
+[Info  - 08:29:28.989] Starting TS Server 
+[Info  - 08:29:28.989] Not starting server. Too many crashes.
+[Info  - 08:29:34.585] Starting TS Server 
+[Info  - 08:29:34.585] Not starting server. Too many crashes.
+[Info  - 08:29:34.634] Starting TS Server 
+[Info  - 08:29:34.634] Not starting server. Too many crashes.
+[Info  - 08:29:35.886] Starting TS Server 
+[Info  - 08:29:35.886] Not starting server. Too many crashes.
+[Info  - 08:29:35.945] Starting TS Server 
+[Info  - 08:29:35.945] Not starting server. Too many crashes.
+[Info  - 08:29:35.993] Starting TS Server 
+[Info  - 08:29:35.993] Not starting server. Too many crashes.
+[Info  - 08:29:36.66] Starting TS Server 
+[Info  - 08:29:36.66] Not starting server. Too many crashes.
+[Info  - 08:29:36.182] Starting TS Server 
+[Info  - 08:29:36.182] Not starting server. Too many crashes.
+[Info  - 08:29:36.188] Starting TS Server 
+[Info  - 08:29:36.188] Not starting server. Too many crashes.
+[Info  - 08:29:36.267] Starting TS Server 
+[Info  - 08:29:36.267] Not starting server. Too many crashes.
+[Info  - 08:29:36.346] Starting TS Server 
+[Info  - 08:29:36.346] Not starting server. Too many crashes.
+[Info  - 08:29:36.411] Starting TS Server 
+[Info  - 08:29:36.411] Not starting server. Too many crashes.
+[Info  - 08:29:36.489] Starting TS Server 
+[Info  - 08:29:36.489] Not starting server. Too many crashes.
+[Info  - 08:29:36.527] Starting TS Server 
+[Info  - 08:29:36.527] Not starting server. Too many crashes.
+[Info  - 08:29:36.600] Starting TS Server 
+[Info  - 08:29:36.600] Not starting server. Too many crashes.
+[Info  - 08:29:36.699] Starting TS Server 
+[Info  - 08:29:36.699] Not starting server. Too many crashes.
+[Info  - 08:29:36.849] Starting TS Server 
+[Info  - 08:29:36.849] Not starting server. Too many crashes.
+[Info  - 08:29:37.274] Starting TS Server 
+[Info  - 08:29:37.274] Not starting server. Too many crashes.
+[Info  - 08:29:37.344] Starting TS Server 
+[Info  - 08:29:37.344] Not starting server. Too many crashes.
+[Info  - 08:29:37.424] Starting TS Server 
+[Info  - 08:29:37.424] Not starting server. Too many crashes.
+[Info  - 08:29:51.870] Starting TS Server 
+[Info  - 08:29:51.870] Not starting server. Too many crashes.
+[Info  - 08:29:53.397] Starting TS Server 
+[Info  - 08:29:53.397] Not starting server. Too many crashes.
+[Info  - 08:29:53.701] Starting TS Server 
+[Info  - 08:29:53.701] Not starting server. Too many crashes.
+[Info  - 08:29:54.604] Starting TS Server 
+[Info  - 08:29:54.604] Not starting server. Too many crashes.
+[Info  - 08:34:28.933] Starting TS Server 
+[Info  - 08:34:28.933] Not starting server. Too many crashes.
+[Info  - 08:34:29.21] Starting TS Server 
+[Info  - 08:34:29.21] Not starting server. Too many crashes.
+[Info  - 08:34:29.133] Starting TS Server 
+[Info  - 08:34:29.133] Not starting server. Too many crashes.
+[Info  - 08:45:37.29] Starting TS Server 
+[Info  - 08:45:37.29] Not starting server. Too many crashes.
+[Info  - 08:45:37.99] Starting TS Server 
+[Info  - 08:45:37.99] Not starting server. Too many crashes.
+[Info  - 08:45:37.184] Starting TS Server 
+[Info  - 08:45:37.184] Not starting server. Too many crashes.
+[Info  - 08:45:37.329] Starting TS Server 
+[Info  - 08:45:37.329] Not starting server. Too many crashes.
+[Info  - 08:45:39.629] Starting TS Server 
+[Info  - 08:45:39.629] Not starting server. Too many crashes.
+[Info  - 08:45:39.698] Starting TS Server 
+[Info  - 08:45:39.698] Not starting server. Too many crashes.
+[Info  - 08:45:39.765] Starting TS Server 
+[Info  - 08:45:39.765] Not starting server. Too many crashes.
+[Info  - 08:45:39.930] Starting TS Server 
+[Info  - 08:45:39.930] Not starting server. Too many crashes.
+[Info  - 09:02:12.117] Starting TS Server 
+[Info  - 09:02:12.117] Not starting server. Too many crashes.
+[Info  - 09:02:12.157] Starting TS Server 
+[Info  - 09:02:12.157] Not starting server. Too many crashes.
+[Info  - 09:02:12.244] Starting TS Server 
+[Info  - 09:02:12.244] Not starting server. Too many crashes.
+[Info  - 09:02:12.416] Starting TS Server 
+[Info  - 09:02:12.416] Not starting server. Too many crashes.
+[Info  - 09:02:51.755] Starting TS Server 
+[Info  - 09:02:51.755] Not starting server. Too many crashes.
+[Info  - 09:02:51.802] Starting TS Server 
+[Info  - 09:02:51.802] Not starting server. Too many crashes.
+[Info  - 09:02:51.887] Starting TS Server 
+[Info  - 09:02:51.887] Not starting server. Too many crashes.
+[Info  - 09:02:52.53] Starting TS Server 
+[Info  - 09:02:52.53] Not starting server. Too many crashes.
+[Info  - 09:02:53.518] Starting TS Server 
+[Info  - 09:02:53.518] Not starting server. Too many crashes.
+[Info  - 09:03:01.257] Starting TS Server 
+[Info  - 09:03:01.257] Not starting server. Too many crashes.
+[Info  - 09:03:01.407] Starting TS Server 
+[Info  - 09:03:01.407] Not starting server. Too many crashes.
+[Info  - 09:03:02.360] Starting TS Server 
+[Info  - 09:03:02.360] Not starting server. Too many crashes.
+[Info  - 09:03:02.878] Starting TS Server 
+[Info  - 09:03:02.878] Not starting server. Too many crashes.
+[Info  - 09:03:05.732] Starting TS Server 
+[Info  - 09:03:05.732] Not starting server. Too many crashes.
+[Info  - 09:03:07.875] Starting TS Server 
+[Info  - 09:03:07.875] Not starting server. Too many crashes.
+[Info  - 09:03:07.941] Starting TS Server 
+[Info  - 09:03:07.941] Not starting server. Too many crashes.
+[Info  - 09:03:08.37] Starting TS Server 
+[Info  - 09:03:08.37] Not starting server. Too many crashes.
+[Info  - 09:03:08.120] Starting TS Server 
+[Info  - 09:03:08.121] Not starting server. Too many crashes.
+[Info  - 09:03:08.122] Starting TS Server 
+[Info  - 09:03:08.122] Not starting server. Too many crashes.
+[Info  - 09:03:08.177] Starting TS Server 
+[Info  - 09:03:08.177] Not starting server. Too many crashes.
+[Info  - 09:03:08.215] Starting TS Server 
+[Info  - 09:03:08.215] Not starting server. Too many crashes.
+[Info  - 09:03:08.315] Starting TS Server 
+[Info  - 09:03:08.315] Not starting server. Too many crashes.
+[Info  - 09:03:08.465] Starting TS Server 
+[Info  - 09:03:08.465] Not starting server. Too many crashes.
+[Info  - 09:03:09.374] Starting TS Server 
+[Info  - 09:03:09.374] Not starting server. Too many crashes.
+[Info  - 09:03:10.561] Starting TS Server 
+[Info  - 09:03:10.561] Not starting server. Too many crashes.
+[Info  - 09:03:11.313] Starting TS Server 
+[Info  - 09:03:11.313] Not starting server. Too many crashes.
+[Info  - 09:03:11.714] Starting TS Server 
+[Info  - 09:03:11.714] Not starting server. Too many crashes.
+[Info  - 09:03:12.135] Starting TS Server 
+[Info  - 09:03:12.135] Not starting server. Too many crashes.
+[Info  - 09:03:12.935] Starting TS Server 
+[Info  - 09:03:12.935] Not starting server. Too many crashes.
+[Info  - 09:03:13.12] Starting TS Server 
+[Info  - 09:03:13.12] Not starting server. Too many crashes.
+[Info  - 09:03:13.113] Starting TS Server 
+[Info  - 09:03:13.113] Not starting server. Too many crashes.
+[Info  - 09:03:13.262] Starting TS Server 
+[Info  - 09:03:13.262] Not starting server. Too many crashes.
+[Info  - 09:03:13.317] Starting TS Server 
+[Info  - 09:03:13.317] Not starting server. Too many crashes.
+[Info  - 09:03:13.680] Starting TS Server 
+[Info  - 09:03:13.680] Not starting server. Too many crashes.
+[Info  - 09:03:14.210] Starting TS Server 
+[Info  - 09:03:14.210] Not starting server. Too many crashes.
+[Info  - 09:03:14.908] Starting TS Server 
+[Info  - 09:03:14.908] Not starting server. Too many crashes.
+[Info  - 09:03:14.978] Starting TS Server 
+[Info  - 09:03:14.978] Not starting server. Too many crashes.
+[Info  - 09:03:15.97] Starting TS Server 
+[Info  - 09:03:15.97] Not starting server. Too many crashes.
+[Info  - 09:03:15.175] Starting TS Server 
+[Info  - 09:03:15.175] Not starting server. Too many crashes.
+[Info  - 09:03:15.292] Starting TS Server 
+[Info  - 09:03:15.292] Not starting server. Too many crashes.
+[Info  - 09:03:15.372] Starting TS Server 
+[Info  - 09:03:15.372] Not starting server. Too many crashes.
+[Info  - 09:03:15.413] Starting TS Server 
+[Info  - 09:03:15.413] Not starting server. Too many crashes.
+[Info  - 09:03:15.495] Starting TS Server 
+[Info  - 09:03:15.495] Not starting server. Too many crashes.
+[Info  - 09:03:15.595] Starting TS Server 
+[Info  - 09:03:15.595] Not starting server. Too many crashes.
+[Info  - 09:03:15.745] Starting TS Server 
+[Info  - 09:03:15.745] Not starting server. Too many crashes.
+[Info  - 09:03:16.324] Starting TS Server 
+[Info  - 09:03:16.324] Not starting server. Too many crashes.
+[Info  - 09:03:18.314] Starting TS Server 
+[Info  - 09:03:18.314] Not starting server. Too many crashes.
+[Info  - 09:03:18.578] Starting TS Server 
+[Info  - 09:03:18.578] Not starting server. Too many crashes.
+[Info  - 09:03:18.661] Starting TS Server 
+[Info  - 09:03:18.661] Not starting server. Too many crashes.
+[Info  - 09:03:18.755] Starting TS Server 
+[Info  - 09:03:18.755] Not starting server. Too many crashes.
+[Info  - 09:03:18.856] Starting TS Server 
+[Info  - 09:03:18.856] Not starting server. Too many crashes.
+[Info  - 09:03:19.5] Starting TS Server 
+[Info  - 09:03:19.6] Not starting server. Too many crashes.
+[Info  - 09:03:19.333] Starting TS Server 
+[Info  - 09:03:19.333] Not starting server. Too many crashes.
+[Info  - 09:03:28.851] Starting TS Server 
+[Info  - 09:03:28.851] Not starting server. Too many crashes.
+[Info  - 09:03:35.504] Starting TS Server 
+[Info  - 09:03:35.504] Not starting server. Too many crashes.
+[Info  - 09:03:35.569] Starting TS Server 
+[Info  - 09:03:35.569] Not starting server. Too many crashes.
+[Info  - 09:03:35.665] Starting TS Server 
+[Info  - 09:03:35.665] Not starting server. Too many crashes.
+[Info  - 09:03:35.806] Starting TS Server 
+[Info  - 09:03:35.806] Not starting server. Too many crashes.
+[Info  - 09:03:35.814] Starting TS Server 
+[Info  - 09:03:35.814] Not starting server. Too many crashes.
+[Info  - 09:03:35.922] Starting TS Server 
+[Info  - 09:03:35.922] Not starting server. Too many crashes.
+[Info  - 09:03:36.21] Starting TS Server 
+[Info  - 09:03:36.21] Not starting server. Too many crashes.
+[Info  - 09:03:36.120] Starting TS Server 
+[Info  - 09:03:36.120] Not starting server. Too many crashes.
+[Info  - 09:03:36.270] Starting TS Server 
+[Info  - 09:03:36.270] Not starting server. Too many crashes.
+[Info  - 09:03:37.205] Starting TS Server 
+[Info  - 09:03:37.205] Not starting server. Too many crashes.
+[Info  - 09:03:37.248] Starting TS Server 
+[Info  - 09:03:37.248] Not starting server. Too many crashes.
+[Info  - 09:03:38.50] Starting TS Server 
+[Info  - 09:03:38.50] Not starting server. Too many crashes.
+[Info  - 09:03:38.62] Starting TS Server 
+[Info  - 09:03:38.62] Not starting server. Too many crashes.
+[Info  - 09:03:38.127] Starting TS Server 
+[Info  - 09:03:38.127] Not starting server. Too many crashes.
+[Info  - 09:03:38.248] Starting TS Server 
+[Info  - 09:03:38.248] Not starting server. Too many crashes.
+[Info  - 09:03:38.254] Starting TS Server 
+[Info  - 09:03:38.254] Not starting server. Too many crashes.
+[Info  - 09:03:38.319] Starting TS Server 
+[Info  - 09:03:38.319] Not starting server. Too many crashes.
+[Info  - 09:03:38.451] Starting TS Server 
+[Info  - 09:03:38.452] Not starting server. Too many crashes.
+[Info  - 09:03:38.457] Starting TS Server 
+[Info  - 09:03:38.457] Not starting server. Too many crashes.
+[Info  - 09:03:38.557] Starting TS Server 
+[Info  - 09:03:38.558] Not starting server. Too many crashes.
+[Info  - 09:03:38.612] Starting TS Server 
+[Info  - 09:03:38.612] Not starting server. Too many crashes.
+[Info  - 09:03:38.712] Starting TS Server 
+[Info  - 09:03:38.712] Not starting server. Too many crashes.
+[Info  - 09:03:38.862] Starting TS Server 
+[Info  - 09:03:38.862] Not starting server. Too many crashes.
+[Info  - 09:03:40.129] Starting TS Server 
+[Info  - 09:03:40.129] Not starting server. Too many crashes.
+[Info  - 09:03:40.391] Starting TS Server 
+[Info  - 09:03:40.391] Not starting server. Too many crashes.
+[Info  - 09:03:40.942] Starting TS Server 
+[Info  - 09:03:40.942] Not starting server. Too many crashes.
+[Info  - 09:03:41.371] Starting TS Server 
+[Info  - 09:03:41.371] Not starting server. Too many crashes.
+[Info  - 09:03:42.549] Starting TS Server 
+[Info  - 09:03:42.549] Not starting server. Too many crashes.
+[Info  - 09:03:42.852] Starting TS Server 
+[Info  - 09:03:42.852] Not starting server. Too many crashes.
+[Info  - 09:03:42.873] Starting TS Server 
+[Info  - 09:03:42.873] Not starting server. Too many crashes.
+[Info  - 09:03:42.964] Starting TS Server 
+[Info  - 09:03:42.964] Not starting server. Too many crashes.
+[Info  - 09:03:43.67] Starting TS Server 
+[Info  - 09:03:43.67] Not starting server. Too many crashes.
+[Info  - 09:03:43.216] Starting TS Server 
+[Info  - 09:03:43.217] Not starting server. Too many crashes.
+[Info  - 09:03:44.22] Starting TS Server 
+[Info  - 09:03:44.22] Not starting server. Too many crashes.
+[Info  - 09:03:44.121] Starting TS Server 
+[Info  - 09:03:44.121] Not starting server. Too many crashes.
+[Info  - 09:03:44.218] Starting TS Server 
+[Info  - 09:03:44.218] Not starting server. Too many crashes.
+[Info  - 09:03:44.368] Starting TS Server 
+[Info  - 09:03:44.368] Not starting server. Too many crashes.
+[Info  - 09:03:44.636] Starting TS Server 
+[Info  - 09:03:44.636] Not starting server. Too many crashes.

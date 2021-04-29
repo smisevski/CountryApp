@@ -1,0 +1,1592 @@
+Vetur initialized
+[INFO ] Find node_modules paths in /srv/source/CountryApp - 102ms
+[INFO ] Loaded bundled typescript@4.2.2.
+[INFO ] Loaded bundled prettier.
+[INFO ] Loaded bundled @starptech/prettyhtml.
+[INFO ] Loaded bundled prettier-eslint.
+[INFO ] Loaded bundled prettier-tslint.
+[INFO ] Loaded bundled stylus-supremacy.
+[INFO ] Loaded bundled @prettier/plugin-pug.
+[Error - 12:08:52 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at getServiceHost (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:570)
+    at nM.init (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:880:1266)
+    at createProjectService (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:880:3648)
+    at sM.getProjectService (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:10140)
+    at async sM.onDocumentSymbol (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:15009)
+[Error - 12:08:52 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at M (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:783)
+    at getServiceHost (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:657)
+    at nM.init (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:880:1266)
+    at createProjectService (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:880:3648)
+    at sM.getProjectService (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:10140)
+    at async sM.onDocumentSymbol (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:15009)
+[Error - 12:08:52 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at new HTMLMode (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:755:1756)
+    at new VueHTMLMode (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:765:3922)
+    at nM.init (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:880:1466)
+    at createProjectService (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:880:3648)
+    at sM.getProjectService (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:10140)
+    at async sM.onDocumentSymbol (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:15009)
+[Error - 12:22:49 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 12:22:49 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 12:22:49 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 12:23:46 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:23:46 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:23:46 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:23:47 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:23:47 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:23:47 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:26:49 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:26:49 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:26:49 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:27:00 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:27:00 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:27:00 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:27:24 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:27:24 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:27:24 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:27:32 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:27:32 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:27:32 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:27:47 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:27:47 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:27:47 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:29:19 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:29:19 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:29:19 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:29:21 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:29:21 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:29:21 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:29:24 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:29:24 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:29:24 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:32:16 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package.json in ts language service.
+[Error - 12:32:16 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package.json in ts language service.
+[Error - 12:32:16 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package.json in ts language service.
+[Error - 12:32:16 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package-lock.json in ts language service.
+[Error - 12:32:16 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package-lock.json in ts language service.
+[Error - 12:32:16 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package-lock.json in ts language service.
+[Error - 12:32:49 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/babel.config.js in ts language service.
+[Error - 12:32:49 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/babel.config.js in ts language service.
+[Error - 12:32:49 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/babel.config.js in ts language service.
+[Error - 12:32:49 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package-lock.json in ts language service.
+[Error - 12:32:49 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package-lock.json in ts language service.
+[Error - 12:32:49 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package-lock.json in ts language service.
+[Error - 12:32:49 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package.json in ts language service.
+[Error - 12:32:49 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package.json in ts language service.
+[Error - 12:32:49 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package.json in ts language service.
+[Error - 12:32:49 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/services/AuthService.js in ts language service.
+[Error - 12:32:49 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/services/AuthService.js in ts language service.
+[Error - 12:32:49 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/services/AuthService.js in ts language service.
+[Error - 12:32:49 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:32:49 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:32:49 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:32:49 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 12:32:49 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 12:32:49 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 12:32:49 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/services/CountriesService.js in ts language service.
+[Error - 12:32:49 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/services/CountriesService.js in ts language service.
+[Error - 12:32:49 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/services/CountriesService.js in ts language service.
+[Error - 12:33:01 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package-lock.json in ts language service.
+[Error - 12:33:01 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package-lock.json in ts language service.
+[Error - 12:33:01 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package-lock.json in ts language service.
+[Error - 12:33:36 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:33:36 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:33:36 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:34:24 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:34:24 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:34:24 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 12:38:35 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 12:38:35 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 12:38:35 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 12:44:52 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 12:44:52 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 12:44:52 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 2:04:45 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 2:04:45 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 2:04:45 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 2:04:47 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 2:04:47 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 2:04:47 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 2:06:10 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 2:06:10 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 2:06:10 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 2:06:12 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 2:06:12 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 2:06:12 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 3:27:06 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 3:27:06 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 3:27:06 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 3:27:33 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 3:27:33 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 3:27:33 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/plugins/vuetify.js in ts language service.
+[Error - 4:02:02 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package.json in ts language service.
+[Error - 4:02:02 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package.json in ts language service.
+[Error - 4:02:02 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package.json in ts language service.
+[Error - 4:02:02 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package-lock.json in ts language service.
+[Error - 4:02:02 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package-lock.json in ts language service.
+[Error - 4:02:02 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package-lock.json in ts language service.
+[Error - 4:03:39 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 4:03:39 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 4:03:39 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 4:04:45 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package.json in ts language service.
+[Error - 4:04:45 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package.json in ts language service.
+[Error - 4:04:45 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package.json in ts language service.
+[Error - 4:04:46 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package-lock.json in ts language service.
+[Error - 4:04:46 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package-lock.json in ts language service.
+[Error - 4:04:46 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package-lock.json in ts language service.
+[Error - 4:06:12 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 4:06:12 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 4:06:12 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 4:06:24 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 4:06:24 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 4:06:24 PM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 4:52:38 PM] Request textDocument/codeAction failed.
+  Message: Request textDocument/codeAction failed with message: Debug Failure. Some statement should be last
+  Code: -32603 
+[Error - 4:52:47 PM] Request textDocument/codeAction failed.
+  Message: Request textDocument/codeAction failed with message: Debug Failure. Token and statement should start at the same point. {"statementKind":"ReturnStatement","tokenKind":"Identifier","errorCode":7027,"start":2416,"length":85}
+  Code: -32603 
+[Error - 4:52:48 PM] Request textDocument/codeAction failed.
+  Message: Request textDocument/codeAction failed with message: Debug Failure. Token and statement should start at the same point. {"statementKind":"ReturnStatement","tokenKind":"Identifier","errorCode":7027,"start":2416,"length":91}
+  Code: -32603 
+[Error - 4:52:48 PM] Request textDocument/codeAction failed.
+  Message: Request textDocument/codeAction failed with message: Debug Failure. Token and statement should start at the same point. {"statementKind":"ReturnStatement","tokenKind":"Identifier","errorCode":7027,"start":2416,"length":95}
+  Code: -32603 
+[Error - 8:00:25 PM] Request textDocument/codeAction failed.
+  Message: Request textDocument/codeAction failed with message: Debug Failure. Token and statement should start at the same point. {"statementKind":"ReturnStatement","tokenKind":"Identifier","errorCode":7027,"start":2416,"length":95}
+  Code: -32603 
+[Error - 8:00:44 PM] Request textDocument/codeAction failed.
+  Message: Request textDocument/codeAction failed with message: Debug Failure. Token and statement should start at the same point. {"statementKind":"ReturnStatement","tokenKind":"Identifier","errorCode":7027,"start":2416,"length":95}
+  Code: -32603 
+[Error - 10:17:12 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:17:12 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:17:12 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:19:25 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:19:25 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:19:25 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:23:06 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package.json in ts language service.
+[Error - 10:23:06 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package.json in ts language service.
+[Error - 10:23:06 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package.json in ts language service.
+[Error - 10:23:07 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package-lock.json in ts language service.
+[Error - 10:23:07 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package-lock.json in ts language service.
+[Error - 10:23:07 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package-lock.json in ts language service.
+[Error - 10:23:34 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package.json in ts language service.
+[Error - 10:23:34 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package.json in ts language service.
+[Error - 10:23:34 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package.json in ts language service.
+[Error - 10:23:35 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package-lock.json in ts language service.
+[Error - 10:23:35 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package-lock.json in ts language service.
+[Error - 10:23:35 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/package-lock.json in ts language service.
+[Error - 10:24:58 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:24:58 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:24:58 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:25:07 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:25:07 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:25:07 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:25:10 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:25:10 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:25:10 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:25:21 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:25:21 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:25:21 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:25:32 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:25:32 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:25:32 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:25:43 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:25:43 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:25:43 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:25:56 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:25:56 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:25:56 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:26:03 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:26:03 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:26:03 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:26:39 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:26:39 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:26:39 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:27:04 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:27:04 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:27:04 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:29:37 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:29:37 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 10:29:37 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 11:03:19 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 11:03:19 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 11:03:19 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 11:03:44 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 11:03:44 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
+[Error - 11:03:44 AM] Error: Can't find package.json in project
+    at inferVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:698:11548)
+    at Object.getVueVersion (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:4106)
+    at Object.updateExternalDocument (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:873:2230)
+    at Object.onDocumentChanged (/root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:697:3893)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13621
+    at Array.forEach (<anonymous>)
+    at /root/.vscode/extensions/octref.vetur-0.33.1/server/dist/vls.js:881:13586
+[INFO ] update /srv/source/CountryApp/client-app/src/main.js in ts language service.
