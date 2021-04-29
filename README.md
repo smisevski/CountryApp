@@ -13,6 +13,6 @@ The client-app whose readme.md is in it's own directory normaly runs on localhos
 
 - This client project works with axios, and jwt bearer auth2.0 provided by the servers firebase/php-jwt package. For now it returns regular accessToken with expiry interval, and normally it would return a refreshToken too. 
 
-- DDL export from the database (phpmyadmin interface) will be available to import and use directly. 
+- DDL export from the database (phpmyadmin interface) will be available to import and use directly.  (CountryApp/dbexports directory) 
 
 -Additionaly this can be expanded with maps functionality, maybe Google Maps provider or ArcGis, services that require subscription for api-key.
